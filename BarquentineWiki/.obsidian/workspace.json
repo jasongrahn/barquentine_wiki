@@ -11,14 +11,10 @@
             "id": "b59d9b1c015ed91e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -191,34 +187,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "003b7c35bd42d2c0",
+  "active": "b59d9b1c015ed91e",
   "lastOpenFiles": [
     "review/review_log.md",
     "review",
+    "locations/the_ship.md",
+    "factions/tribunal.md",
+    "factions/gif.md",
+    "npcs/alvin.md",
+    "npcs/ted_2.md",
+    "locations/the_dock.md",
+    "locations/the_astral_plane.md",
+    "locations/armory_junction.md",
+    "locations/manticore.md",
+    "npcs/warlord.md",
+    "npcs/the_war_saint.md",
+    "npcs/ted.md",
+    "npcs/robert.md",
+    "npcs/mercane.md",
+    "npcs/king_burger.md",
+    "npcs/frank.md",
+    "npcs/alistair.md",
+    "Welcome.md",
+    "factions/the_manticore.md",
+    "npcs/geronimo.md",
+    "locations",
+    "factions",
+    "npcs",
     "sessions/S2e14.md",
     "sessions/S2e15.md",
-    "Welcome.md",
-    "factions/gif.md",
     "factions/the_gif.md",
     "locations/the_flotilla.md",
-    "npcs/albert.md",
-    "npcs/alistair.md",
-    "npcs/alvin.md",
-    "npcs/attorrnash.md",
-    "npcs/byron.md",
-    "npcs/frank.md",
-    "npcs/sir_thumbles.md",
-    "npcs/ted.md",
-    "npcs/the_warlord.md",
-    "npcs/warlord.md",
-    "sessions/S2e41.md",
-    "factions/armada.md",
-    "sessions/S2e16.md",
-    "sessions/S2e33.md",
-    "sessions/S2e40.md",
-    "sessions/S2e35.md",
-    "Attorrnash.md",
-    "Blue.md",
     "sessions"
   ]
 }
