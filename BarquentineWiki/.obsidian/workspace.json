@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6375e416bd763d2c",
+        "id": "3b7a56dbff600ffc",
         "type": "tabs",
         "children": [
           {
-            "id": "b59d9b1c015ed91e",
+            "id": "f4d5294e5fb608f5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,8 +187,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b59d9b1c015ed91e",
+  "active": "f4d5294e5fb608f5",
   "lastOpenFiles": [
+    "sessions/S2e9.md",
+    "sessions/S1e10.md",
+    "sessions/S1e9.md",
+    "lion-handed.md",
+    "sessions/S1e5.md",
+    "Room.md",
+    "factions/giff.md",
+    "npcs/the_admiral.md",
+    "sessions",
+    "factions",
+    "locations",
+    "npcs",
     "review/review_log.md",
     "review",
     "locations/the_ship.md",
@@ -207,17 +219,6 @@
     "npcs/mercane.md",
     "npcs/king_burger.md",
     "npcs/frank.md",
-    "npcs/alistair.md",
-    "Welcome.md",
-    "factions/the_manticore.md",
-    "npcs/geronimo.md",
-    "locations",
-    "factions",
-    "npcs",
-    "sessions/S2e14.md",
-    "sessions/S2e15.md",
-    "factions/the_gif.md",
-    "locations/the_flotilla.md",
-    "sessions"
+    "npcs/alistair.md"
   ]
 }
