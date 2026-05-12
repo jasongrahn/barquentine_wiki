@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/s02e34.md",
+                "file": "sessions/s02e35.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s02e34"
+              "title": "s02e35"
             }
           }
         ]
@@ -193,9 +193,9 @@
   },
   "active": "f4d5294e5fb608f5",
   "lastOpenFiles": [
+    "sessions/s02e34.md",
     "review/review_log.md",
     "npcs/ted.md",
-    "sessions/s02e34.md",
     "sessions/S2e9.md",
     "sessions/S1e10.md",
     "sessions/S1e9.md",
