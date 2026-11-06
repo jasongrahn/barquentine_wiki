@@ -49,8 +49,8 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | modrons | Modrons | faction |  | s02e32 |
 | mr_catastrophe | Mr. Catastrophe | npc | Mr catastrophe, Mr katach | s02e01 |
 | periwinkle | Periwinkle | npc | perrywinkle | s02e19 |
-| phathalos | Phathalos | npc | phalos, falos, falo | s02e01 |
-| phathalos_anchor | Phathalos's anchor | item |  | s02e04 |
+| phthalos | Phthalos | npc | Phathalos, phalos, falos, falo | s02e01 |
+| phthalos_anchor | Phthalos's anchor | item |  | s02e04 |
 | philip | Philip (Phil) | npc |  | s03e01 |
 | plug | Plug | npc |  | s02e09 |
 | portable_hole | Portable hole | item |  | s03e01 |
@@ -74,7 +74,7 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | ted | Ted | npc |  | s02e05 |
 | ted_two | Ted Two (Lumi's undead servant) | npc | Ted 2, Ted too | s02e25 |
 | the_brig | The Flotilla brig | place |  | s02e37 |
-| the_compasses | The compasses (Basil's and Phathalos's; fused in s02e09) | item |  | s02e06 |
+| the_compasses | The compasses (Basil's and Phthalos's; fused in s02e09) | item |  | s02e06 |
 | the_conclave | The Conclave (magic shop on the Rock) | place |  | s02e27 |
 | the_giff_flotilla | The Giff Flotilla | place | Gif Flotilla, gift flotilla, flatillaa | s02e25 |
 | the_manticore | The Manticore (the ship; first called the Ki-Rin) | npc | Ki-Rin: Key Ren, Kyron, kyin, keyin; Manticore: manticor, manacor, meore; "Quinoa" is a player riff | s02e01 |

@@ -44,7 +44,7 @@ Fabrication is the failure mode. Check every specific claim against the **raw VT
 - The ship's names, in order: **Ki-Rin → The Ki-Rin's Blessed Vengeance → The Manticore**. "Quinoa" is Lumi's player riffing.
 - **Elder Abarat** is the canon spelling (transcripts render it Abarath, Abarrett, Abberet, Aberatt).
 - **S2 PC roster:** Basil, Room, Lumi and Cyan. Cyan is called **Blue** until his color shifts in s02e12, and he leaves with Vermilion in s02e14. Pyxis, from S1, is gone before s02e01. Lumi is short for **Luminariel** (s02e07).
-- **S2 spellings set by the DM:** Phathalos, Island of Bral, Tiny's Tipsy by the Sea, Captain Welsh, Attornash, King Buhrghur, Davitt. `BarquentineWiki/names.md` holds every name and its caption variants.
+- **S2 spellings set by the DM:** Phthalos, Island of Bral, Tiny's Tipsy by the Sea, Captain Welsh, Attornash, King Buhrghur, Davitt. `BarquentineWiki/names.md` holds every name and its caption variants.
 - Episode IDs are `sXXeYY`. 2026-10-20 = **S3E5**.
 
 ## Frontmatter

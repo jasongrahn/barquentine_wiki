@@ -140,19 +140,19 @@ status: open
 
 ## T-017 · The compasses and the ship hunt
 status: closed
-- s02e06 — Phathalos's ornate compass "must not be working"
+- s02e06 — Phthalos's ornate compass "must not be working"
 - s02e07 — Basil's compass spins; his patron says it works, but he may not be the right man
 - s02e09 — the two compasses fuse into one; a whirlpool drags the crew to the sunken ship
-- s02e10 — Basil and Blue end Phathalos in the fight for captaincy
+- s02e10 — Basil and Blue end Phthalos in the fight for captaincy
 - s02e12 — the ship rises and Basil claims his promised captaincy
 
 ## T-018 · Cyan and the plasmoid siblings
 status: open
 - s02e01 — Blue's second vision of the red plasmoid, Hierophant Vermilion
 - s02e06 — Blue's letter from home: seek out your siblings and unify them
-- s02e08 — Blue reveals a third plasmoid is hunting them, and refuses to serve Phathalos
-- s02e10 — Blue and Basil end Phathalos
-- s02e12 — wearing Phathalos's belt, Blue's color shifts; he is Cyan
+- s02e08 — Blue reveals a third plasmoid is hunting them, and refuses to serve Phthalos
+- s02e10 — Blue and Basil end Phthalos
+- s02e12 — wearing Phthalos's belt, Blue's color shifts; he is Cyan
 - s02e14 — Cyan leaves with Vermilion, saying goodbye only in a note
 
 ## T-019 · The Cartomancer's curse

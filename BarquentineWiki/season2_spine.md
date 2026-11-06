@@ -10,19 +10,19 @@ One line per episode, each written as of its own episode. Payoffs live in `threa
 
 ## Arc 1 · The Monolith (`monolith`, s02e01–s02e05)
 
-- **s02e01 · Definitely Not Full of Muscles** ✓ — Chained in the hold of the prison transport Sentinel, Basil, Blue and Room gain a new companion, the fallen Aasimar Luminariel. They are lowered into the Monolith, where the green plasmoid Phathalos waits. [Recap s02e02 00:00:00]
-- **s02e02 · —** — In the Monolith's lowest cell the crew fight alongside Phathalos and try to fly out through the aperture, but their flight magic is cancelled. A scarab burrows into Room's leg. *(player recap)* [Recap s02e03 00:00:00]
+- **s02e01 · Definitely Not Full of Muscles** ✓ — Chained in the hold of the prison transport Sentinel, Basil, Blue and Room gain a new companion, the fallen Aasimar Luminariel. They are lowered into the Monolith, where the green plasmoid Phthalos waits. [Recap s02e02 00:00:00]
+- **s02e02 · —** — In the Monolith's lowest cell the crew fight alongside Phthalos and try to fly out through the aperture, but their flight magic is cancelled. A scarab burrows into Room's leg. *(player recap)* [Recap s02e03 00:00:00]
 - **s02e03 · TreBlueChet** ? — Room dreams of flight and of an eye, then calls on Baku to eat his dreams. Basil flies the team up through the aperture and they clear the first floor of the tower. [Recap s02e04 00:00:02]
-- **s02e04 · —** — The crew fight through the tower guards and recover their gear, and Phathalos takes up a massive anchor. They reach the storm-lashed roof of the Monolith. [Recap s02e05 00:00:01]
-- **s02e05 · It's Called Pacifism, Everyone!** ✓ — The crew commandeer one of the anchor ships and cut it loose. The Monolith crashes into the ocean and the moon grows an eerie smile. Ted the bosun flees from Phathalos. [Recap s02e06 00:01:01]
+- **s02e04 · —** — The crew fight through the tower guards and recover their gear, and Phthalos takes up a massive anchor. They reach the storm-lashed roof of the Monolith. [Recap s02e05 00:00:01]
+- **s02e05 · It's Called Pacifism, Everyone!** ✓ — The crew commandeer one of the anchor ships and cut it loose. The Monolith crashes into the ocean and the moon grows an eerie smile. Ted the bosun flees from Phthalos. [Recap s02e06 00:01:01]
 
 ## Arc 2 · The Sunken Ship (`sunken_ship`, s02e06–s02e12)
 
-- **s02e06 · 2 Hours Until Sunrise** ? — Ted stays aboard as lookout. A summoned incubus reads Blue's letter from home: seek out your siblings and unify them. Phathalos's ornate compass "must not be working." [Recap s02e07 00:00:00]
+- **s02e06 · 2 Hours Until Sunrise** ? — Ted stays aboard as lookout. A summoned incubus reads Blue's letter from home: seek out your siblings and unify them. Phthalos's ornate compass "must not be working." [Recap s02e07 00:00:00]
 - **s02e07 · Unexpected and Unappreciated (Parts 1–2)** ✓ — Basil's compass spins wildly, and Luminariel asks to be called Lumi. The sleeping crew run aground on a wreck. Basil's patron says the compass works but he may not be the right man. [Recap s02e08 00:00:00]
-- **s02e08 · Definitely Won't Be a Problem Later** ✓ — Room dreams of his home world burning, and Basil admits his parents face the noose. Blue reveals a third plasmoid is hunting them. He then challenges Phathalos and refuses to serve him. [Recap s02e09 00:00:00]
-- **s02e09 · This Guy You Know** ✓ — At Plug's shop-ship, Basil touches the two compasses together and they fuse into one. A whirlpool drags the crew to a sunken cavern, where a bubble seals Basil, Blue and Phathalos aboard an ancient ship. [Recap s02e10 00:01:03]
-- **s02e10 · 28 Bones Later** ✓ — Basil and Blue end Phathalos in the fight for captaincy. Lumi holds off the undead outside, and a wraith warns him the ship is cursed. Then the cavern roof gives way. [Recap s02e12 00:00:00]
+- **s02e08 · Definitely Won't Be a Problem Later** ✓ — Room dreams of his home world burning, and Basil admits his parents face the noose. Blue reveals a third plasmoid is hunting them. He then challenges Phthalos and refuses to serve him. [Recap s02e09 00:00:00]
+- **s02e09 · This Guy You Know** ✓ — At Plug's shop-ship, Basil touches the two compasses together and they fuse into one. A whirlpool drags the crew to a sunken cavern, where a bubble seals Basil, Blue and Phthalos aboard an ancient ship. [Recap s02e10 00:01:03]
+- **s02e10 · 28 Bones Later** ✓ — Basil and Blue end Phthalos in the fight for captaincy. Lumi holds off the undead outside, and a wraith warns him the ship is cursed. Then the cavern roof gives way. [Recap s02e12 00:00:00]
 - **s02e11 · My A Is Getting E'd** ? — In a Halloween special, the crew guest on the werewolf talk show *Pack Talks*. The interview ends in a werewolf brawl and an unopened chest. *(own transcript)* [VTT s02e11 00:03:08] [VTT s02e11 01:58:26]
 - **s02e12 · I'm Not Sure What I've Gotten Us Into** ? — The ship bursts up through a breaching whale. Basil claims his promised captaincy, and the Ki-Rin turns out to be the Manticore. The documentarian Davitt broadcasts the crew's tale. [Recap s02e13 00:01:00]
 
@@ -79,7 +79,7 @@ Each cut falls where the crew's location or goal changes.
 | # | slug | name | episodes | n | why the cut falls here |
 |---|---|---|---|---|---|
 | 1 | `monolith` | The Monolith | s02e01–s02e05 | 5 | Opens on the prison transport. Closes when the Monolith falls into the sea. |
-| 2 | `sunken_ship` | The Sunken Ship | s02e06–s02e12 | 7 | The compass hunt with Phathalos. Closes when the ship rises through the whale and Basil is captain. E11, the Halloween special, sits inside. |
+| 2 | `sunken_ship` | The Sunken Ship | s02e06–s02e12 | 7 | The compass hunt with Phthalos. Closes when the ship rises through the whale and Basil is captain. E11, the Halloween special, sits inside. |
 | 3 | `island_of_bral` | Fitting Out | s02e13–s02e18 | 6 | Shore-based: Mr. Catastrophe, Cyan leaves, the throne, the crew is hired, Captain Welsh's memory. Closes before the dream. |
 | 4 | `rooms_dream` | The Recipe Heist | s02e19–s02e22 | 4 | Entirely inside Room's dream. Closes when the crew wake. |
 | 5 | `the_rock` | The Rock | s02e23–s02e30 | 8 | Launch into space through to the shove-off from the Rock: Ledger, the lost name, space clowns, the booze run. |
@@ -94,8 +94,8 @@ Each cut falls where the crew's location or goal changes.
 ## Notes and anomalies
 
 - **E11 is a Halloween special.** Its talk show was made canon in E14, which hands out the talk-show rewards [Recap s02e14 00:02:02]. In E11, Blue speaks of killing his sibling, so the special takes place after E10. The host's name is captioned "Syrian silal" and "syan silver how". The spelling is unconfirmed.
-- **Blue becomes Cyan in E12.** Wearing Phathalos's belt, his body's color shifts [VTT s02e12 00:08:32]. He is "Cyan" from E13 on.
+- **Blue becomes Cyan in E12.** Wearing Phthalos's belt, his body's color shifts [VTT s02e12 00:08:32]. He is "Cyan" from E13 on.
 - **E19 opening** includes a DM retelling of Room's backstory [VTT s02e19 00:02:03]. E21's recap of E20 shares no key terms with E19 (hideout, Periwinkle, knobs), so it covers the missing E20.
 - **E28–E29:** E30's opening recaps E27 ("two sessions ago"). E28 centres on Lumi and E29 is an interlude, so neither got a recap.
 - **E41:** the S2e41 intro tab recaps E40 but was never read aloud. The Captain's player recaps E40 instead.
-- **Spellings confirmed by the DM:** Phathalos, Luminariel, Island of Bral, Tiny's Tipsy by the Sea, Captain Welsh, Attornash, King Buhrghur, Davitt.
+- **Spellings confirmed by the DM:** Phthalos, Luminariel, Island of Bral, Tiny's Tipsy by the Sea, Captain Welsh, Attornash, King Buhrghur, Davitt.
