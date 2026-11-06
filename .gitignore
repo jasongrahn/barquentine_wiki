@@ -50,3 +50,6 @@ rsconnect/
 
 # macOS
 .DS_Store
+
+# DM-only arc ideas: keep private until the campaign wraps
+brewed_lore/

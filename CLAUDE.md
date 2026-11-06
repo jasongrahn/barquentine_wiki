@@ -10,7 +10,7 @@ This folder is the home for Barquentine session recaps and lore. They are harves
 |---|---|
 | Raw transcripts (NAS) | `/Volumes/share/videos/*.vtt`. Mount via Finder → Go → Connect to Server → `smb://LS220D43E.local/share` |
 | Transcript cleaner | `tools/vtt_clean.R` → `vtt_to_transcript(path)` returns `Speaker: text` lines |
-| Session recaps | `BarquentineWiki/sessions/sXXeYY.md` (Obsidian vault, git repo on `master`) |
+| Session recaps | `BarquentineWiki/sessions/sXXeYY.md` (Obsidian vault, tracked in the top-level repo on `main`) |
 | Playbook | `recap_playbook.md` |
 | Handoffs | `BarquentineWiki/handoffs/YYYY-MM-DD_<topic>.md`. **Every `/handoff` goes here**, not the OS temp dir. |
 
