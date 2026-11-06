@@ -1,6 +1,6 @@
 # Barquentine Recap & Lore Playbook
 
-Rules for writing session recaps and lore notes from Zoom `.vtt` transcripts. Claude Code writes these directly; the DM (the Admiral) line-edits.
+Rules for writing session recaps and lore notes from `.vtt` transcripts (Zoom and YouTube). Claude Code writes these directly; the DM (the Admiral) line-edits.
 
 ## Verification first
 
@@ -43,6 +43,50 @@ Fabrication is the failure mode. Check every specific claim against the **raw VT
 - The ship's names, in order: **Ki-Rin → The Ki-Rin's Blessed Vengeance → The Manticore**. "Quinoa" is Lumi's player riffing.
 - **Elder Abarat** is the canon spelling (transcripts render it Abarath, Abarrett, Abberet, Aberatt).
 - Episode IDs are `sXXeYY`. 2026-10-20 = **S3E5**.
+
+## Frontmatter
+
+Every recap opens with a YAML block above its H1. `tools/lint_recaps.R` checks it; a recap isn't done until the lint exits 0.
+
+```yaml
+---
+episode: s03e06                     # matches the filename
+title: "It Really Ties It Together" # identical to the H1
+recorded: 2026-11-03                # local date the session was played
+source: GMT20261104-021831_Recording.transcript.vtt
+source_tier: zoom                   # zoom | youtube
+recap_prose: generated              # or: dm_intro s3e7 (the intro tab whose prose is used)
+arc: ~                              # arc slug; ~ until E1 names the arcs
+npcs: [mira, victoria]              # slugs from names.md, type npc
+places: [mira_lair]                 # slugs from names.md, type place
+items: [victorias_chest]            # slugs from names.md, type item
+threads_opened: []                  # T-### ids from threads.md
+threads_advanced: [T-007]
+threads_closed: []
+callbacks: [s03e02]                 # earlier episodes this one pays off or echoes
+---
+```
+
+- The PCs (`basil`, `room`, `lumi`) are in every episode, so they stay out of `npcs`. The ship goes in as `the_manticore`.
+- Every slug must be in `names.md`, with the type matching its key. Add a new name there first.
+- Every thread id must be in `threads.md`, and that thread must list the episode as a `- sXXeYY — …` bullet. Add the bullet first.
+- `threads_opened` = the thread's first episode, `threads_closed` = the last episode of a thread marked `status: closed`, `threads_advanced` = every other episode on it.
+
+## Spoiler rule
+
+- **Prose is written as of its own episode.** A recap never reveals what later episodes show, even when we know it.
+- Payoffs go in `threads.md`, and in Open Threads only as an italic *(SxEy pays off.)* pointer.
+- The repo is public and players read it. Never put DM prep notes, future-arc ideas or `brewed_lore/` material in any tracked file. The DM's prep notes may be used to check a **spelling**, nothing else.
+
+## YouTube-tier transcripts (S2E1–S2E33)
+
+These are auto-captions: no speaker labels, and `[ __ ]` where a word was censored. The cleaner turns them into `[hh:mm:ss] text` blocks of about a minute, and `>>` marks a change of speaker.
+
+- **Attribute a quote only when the speaker is unambiguous** from context (the DM narrating, a character addressed by name, a voice only one player does). Otherwise narrate the moment instead of quoting it.
+- Quotes stay verbatim, apart from normalized case and punctuation. **Never fill in `[ __ ]`.**
+- Fix mangled proper nouns with `names.md` (the transcript-variants column). Flag any guess in Lore Notes as an *Anomaly*.
+- Each episode opens with the DM's "Previously on", which recaps the prior episode. Cite it as **[Recap hh:mm:ss]**.
+- Confirm the S2 PC roster in E1. S1 had Pyxis.
 
 ## Worldbuilding (separate mode)
 
