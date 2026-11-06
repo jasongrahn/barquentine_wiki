@@ -27,6 +27,7 @@ Fabrication is the failure mode. Check every specific claim against the **raw VT
 - No table talk, meta-commentary, or mechanical exposition: no skill names, DCs, or spell names.
 - Close on stacked rhetorical questions that resolve into the fixed tagline: **"Find out this time, on Barquentine!"**
 - The title is a short, memorable phrase that was **actually spoken at the table**, never an invented label. Pop-culture references are welcome.
+  - **S2 exception:** the episode's YouTube filename title stands, even when the captions don't contain it (see `season2_spine.md`). Only episodes with no filename title (s02e02, s02e04, s02e20, s02e41) need a spoken phrase.
 
 ## Lore notes
 
@@ -42,6 +43,8 @@ Fabrication is the failure mode. Check every specific claim against the **raw VT
 - **"Mira" speaker label:** a player voicing the NPC Mira. Their lines are Mira's, except where the Admiral steps in to add color.
 - The ship's names, in order: **Ki-Rin → The Ki-Rin's Blessed Vengeance → The Manticore**. "Quinoa" is Lumi's player riffing.
 - **Elder Abarat** is the canon spelling (transcripts render it Abarath, Abarrett, Abberet, Aberatt).
+- **S2 PC roster:** Basil, Room, Lumi and Cyan. Cyan is called **Blue** until his color shifts in s02e12, and he leaves with Vermilion in s02e14. Pyxis, from S1, is gone before s02e01. Lumi is short for **Luminariel** (s02e07).
+- **S2 spellings set by the DM:** Phathalos, Island of Bral, Tiny's Tipsy by the Sea, Captain Welsh, Attornash, King Buhrghur, Davitt. `BarquentineWiki/names.md` holds every name and its caption variants.
 - Episode IDs are `sXXeYY`. 2026-10-20 = **S3E5**.
 
 ## Frontmatter
@@ -86,7 +89,7 @@ These are auto-captions: no speaker labels, and `[ __ ]` where a word was censor
 - Quotes stay verbatim, apart from normalized case and punctuation. **Never fill in `[ __ ]`.**
 - Fix mangled proper nouns with `names.md` (the transcript-variants column). Flag any guess in Lore Notes as an *Anomaly*.
 - Each episode opens with the DM's "Previously on", which recaps the prior episode. Cite it as **[Recap hh:mm:ss]**.
-- Confirm the S2 PC roster in E1. S1 had Pyxis.
+- The S2 PC roster is in **Table facts**. Blue and Cyan are one character; use the slug `cyan`.
 
 ## Worldbuilding (separate mode)
 
