@@ -182,6 +182,6 @@ Extra checks:
 
 **Change in the E1 subplan**
 - Look at the real files before designing any parser. Half of the S1 design was for problems that didn't exist.
-- Seed `names.md` spellings from the DM's own usage. Three guesses wait on DM review: Theodore, Trimnor, Philip.
+- Seed `names.md` spellings from the DM's own usage. Three guesses (Theodore, Trimnor, Philip) were approved in DM review on 2026-11-06, along with `threads.md`.
 - The lint asserts names and threads exist, not that they're right. The DM review of `threads.md` is the real check.
 - Time: ~2.5 h, against the roadmap's 1–2 h.
