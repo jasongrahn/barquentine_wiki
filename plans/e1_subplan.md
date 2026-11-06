@@ -145,7 +145,7 @@ no leaks
 **Mistakes caught before commit**
 - The first title-grep counted 10 spoken titles. It searched raw VTTs, whose line breaks split phrases. Re-run on cleaned text, it found 17.
 - The E37–E40 titles were shifted by one. I'd assumed S2E40 had no filename title. Fixed by comparing every spine title against its filename.
-- The DM changed "four prices" to "3 prices" for E35. The s2e36 intro tab lists four options. Left as the DM wrote it, and flagged.
+- The DM changed "four prices" to "3 prices" for E35. The s2e36 intro tab lists four, but the DM confirmed that three were offered at the table: lose 10 max HP or 1 physical ability point; one "lucky path" sealed off; one future door closed forever. The intro tab is not the record of what was played.
 
 **Change in the E2 subplan**
 - Compare derived lists (titles, first-seen) against the source files mechanically before calling them done.
