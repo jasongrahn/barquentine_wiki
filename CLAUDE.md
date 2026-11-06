@@ -71,3 +71,26 @@ The Google Doc **"Barquentine S3 notes"** (`1-3qYQxAMc7TZ2PZElrNrwvfzFP5m40Zk5SW
 **DM intro doc:** "Barquentine Episode notes" (`1m5xXbEsPBFdTZAUoUAgj6a14I7aF8LcszCmX-r1mBbs`). Each `s2eN intro` tab recaps **S2E(N−1)**, so the tabs s2e33–S2e43 give DM prose for S2E32–S2E42. The S2e43 tab recaps the whole Flotilla arc as well as S2E42.
 
 The same doc holds DM prep notes (tabs S2e14–S2E17, S2E25, s2e26, s2e32, "Tab 7"). They are plans, not canon, and may not be published: use them only to check spellings.
+
+**Per-episode docs, S2E1–S2E12** (found 2026-11-06 with the Drive search `title contains 'barquentine'`). There is one Google Doc per episode, titled "Barquentine S2E2", "Barquentine S2e4" and so on. Each one opens with the DM's intro for that episode, and the intro recaps the **prior** episode, the same pattern as the tabs:
+
+| Doc | Opens with | Gives DM prose for |
+|---|---|---|
+| Barquentine S2 E1 (`1XHoo2RtNrgeTFEywBArsjPrIh4il5c09pIFYjSOajXE`) | season-opening narration ("What makes a ship?") | — |
+| Barquentine S2E2 (`1W-nLAiQ8s4z06XljxtihgeTjgU_ZhTa3XTosxQZ5dpw`) | intro | S2E1 |
+| Barquentine S2E3 (`1YUZNnm7mB1rcq1Ev4hummmho5Or90ukh2TKD7-HX2Uw`) | **prep notes, no intro**. The table recapped E2 itself. | — |
+| Barquentine S2e4 (`1-WeGLYpAcdVdUBur-rLExso6wxmjiDGp_9G81xZ_0L4`) | intro | S2E3 |
+| Barquentine S2E5 (`1moq4HBvPGz2lpCIzHrDXqrfhf29u1E4sekrWvB05byA`) | intro | S2E4 |
+| Barquentine! S2E6 (`1S-U3dwrTPOYtcgtEWn9ijcnsENNPw2mITapxhc-ukpM`) | intro | S2E5 |
+| Barquentine S2e7 (`1Sk_qjL0rTNdk98ARjykGkS6JU9oE_W7zVix0AbFSvEI`) | intro | S2E6 |
+| Barquentine S2E8 (`1ZOlNL8vmpCsbzmydC38OHuyP65S-ALMQ_N7fqDZYiSM`) | intro | S2E7 |
+| Barquentine S2E9 (`1dsRZbed-KNAuV9YTUHlihEH7doJLIqUXugi-_4Qetmw`) | intro | S2E8 |
+| Barquentine S2 e10 (`1r8d6_OL4VOcfPi3DZciPZ4zCsaJZIt1gMCUVuKOF3_w`) | intro | S2E9 |
+| Barquentine s2 e11 (`1_xR99fVqE8Y_2VA1pikL1KZYc1MR6tGab9z8CuqfA10`) | Halloween-special narration | — |
+| Barquentine S2E12 (`1lczA6DODsEWm9O7qm2UTfABaqpBo_LqFQ2mDZHHDHdQ`) | intro | S2E10 |
+
+- Use the intro prose the way the tabs are used: copy it verbatim into the recap, drop the "Previously on" cue line, and set `recap_prose: dm_intro s2eN`.
+- **Anything after the intro** (encounter tables, plans) counts as prep notes, so use it for spelling only.
+- **The DM outranks the doc.** If the intro and the DM disagree, the DM's version stands. Check the intro against what was read aloud in the VTT.
+- E2 and E11–E31 have no DM intro prose, so their recaps are generated.
+- The Drive also holds S1 episode docs (s1E1–s1E26) and other Barquentine docs. Those aren't S2 sources.
