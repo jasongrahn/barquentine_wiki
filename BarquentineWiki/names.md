@@ -49,9 +49,9 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | modrons | Modrons | faction |  | s02e32 |
 | mr_catastrophe | Mr. Catastrophe | npc | Mr catastrophe, Mr katach | s02e01 |
 | periwinkle | Periwinkle | npc | perrywinkle | s02e19 |
+| philip | Philip (Phil) | npc |  | s03e01 |
 | phthalos | Phthalos | npc | Phathalos, phalos, falos, falo | s02e01 |
 | phthalos_anchor | Phthalos's anchor | item |  | s02e04 |
-| philip | Philip (Phil) | npc |  | s03e01 |
 | plug | Plug | npc |  | s02e09 |
 | portable_hole | Portable hole | item |  | s03e01 |
 | president_mario | President Mario | npc |  | s02e19 |
