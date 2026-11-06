@@ -30,7 +30,8 @@ S3E1–S3E6 recaps are done (`BarquentineWiki/sessions/`). The goal is a recap l
 |---|---|---|---|---|
 | **E0** ✅ 2026-11-06 | Tooling & rules | Cleaner handles YouTube VTTs; schema, ledger and lint exist; playbook updated | Cleaned YouTube file has timestamped multi-line output; lint passes on the 6 S3 recaps after their frontmatter is added; GMT→E37–43 map verified | 1 sitting, ~1–2 h |
 | **E1** ✅ 2026-11-06 | Season 2 spine | `season2_spine.md`: one line per episode, arc boundaries, seeded `names.md`/`threads.md` | DM approves arc boundaries; every E2–E43 opening has a cited line | 1 sitting, ~2 h |
-| **E2…E8** | One arc per epic: 7 arcs, set in E1 (see `BarquentineWiki/season2_spine.md`) | Full recaps for that arc's episodes, plus a 3-paragraph arc recap | All episodes pass the per-episode DoD (below); arc recap written; DM line-edits done; committed | 1 sitting each, ~4–6 h |
+| **E2** ✅ 2026-11-06 | Arc 1, The Monolith (s02e01–s02e05) | Five recaps plus arc recap | See `plans/e2_subplan.md` Retro | 1 sitting |
+| **E3…E8** | One arc per epic: 7 arcs, set in E1 (see `BarquentineWiki/season2_spine.md`) | Full recaps for that arc's episodes, plus a 3-paragraph arc recap | All episodes pass the per-episode DoD (below); arc recap written; DM line-edits done; committed | 1 sitting each, ~4–6 h |
 | **Ez** | Retire old S2 files | The old project's S2E34–36 content fully replaced | No pipeline-format frontmatter left in `sessions/` | folded into the E34–36 arc |
 
 ### Per-episode Definition of Done (applies inside every arc epic)

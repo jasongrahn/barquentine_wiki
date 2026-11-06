@@ -11,10 +11,18 @@ One line per episode, each written as of its own episode. Payoffs live in `threa
 ## Arc 1 · The Monolith (`monolith`, s02e01–s02e05)
 
 - **s02e01 · Definitely Not Full of Muscles** ✓ — Chained in the hold of the prison transport Sentinel, Basil, Blue and Room gain a new companion, the fallen Aasimar Luminariel. They are lowered into the Monolith, where the green plasmoid Phthalos waits. [Recap s02e02 00:00:00]
-- **s02e02 · —** — In the Monolith's lowest cell the crew fight alongside Phthalos and try to fly out through the aperture, but their flight magic is cancelled. A scarab burrows into Room's leg. *(player recap)* [Recap s02e03 00:00:00]
+- **s02e02 · Still Just a Blob in a Cage** ✓ — In the Monolith's lowest cell the crew fight alongside Phthalos and try to fly out through the aperture, but their flight magic is cancelled. A scarab burrows into Room's leg. *(player recap)* [Recap s02e03 00:00:00]
 - **s02e03 · TreBlueChet** ? — Room dreams of flight and of an eye, then calls on Baku to eat his dreams. Basil flies the team up through the aperture and they clear the first floor of the tower. [Recap s02e04 00:00:02]
-- **s02e04 · —** — The crew fight through the tower guards and recover their gear, and Phthalos takes up a massive anchor. They reach the storm-lashed roof of the Monolith. [Recap s02e05 00:00:01]
+- **s02e04 · I'm Not Your Buddy, Pal** ✓ — The crew fight through the tower guards and recover their gear, and Phthalos takes up a massive anchor. They reach the storm-lashed roof of the Monolith. [Recap s02e05 00:00:01]
 - **s02e05 · It's Called Pacifism, Everyone!** ✓ — The crew commandeer one of the anchor ships and cut it loose. The Monolith crashes into the ocean and the moon grows an eerie smile. Ted the bosun flees from Phthalos. [Recap s02e06 00:01:01]
+
+### Arc recap
+
+Stripped of everything and lowered two hundred feet to the bottom of the Monolith, Basil, Room, Blue and their new companion Luminariel found the prisoner they had come for. Phthalos is Blue's green double, seven feet of muscle with a ship of bones on his mind, and Mr. Catastrophe had sent them all to the same cell. Phthalos knew why the plasmoids exist: strength, wisdom and faith, three siblings built for a war, and only one comes home. Blue kept the red one from his visions to himself. Lumi's Soul Gaze laid hearts open on both sides: a bronzed father locked in a chest, an exile his parents ordered, and Phthalos's plain promise that once he has his ship, he will murder them all.
+
+They needed him anyway. Beetle tracks pointed to the aperture, and a first, clumsy flight earned Basil and Room their one warning. The second try went up all at once, with Room shrunk to pocket size and Basil and Phthalos flying the rest, and the guard room fell. Painted in a veteran's blood, Phthalos told Blue *"it's time for war."* Floor by floor the crew took back their gear. Phthalos found an anchor and a belt that made him bigger. A Mage's domination turned Basil on Room until Blue's fist broke the spell, and Basil answered with a finger gun: *"I'm not your buddy, pal."*
+
+On a storm-lashed roof 350 feet over the sea, the tower already sinking, they fell with style onto an anchor ship. Phthalos's victims vanished into a fiery chasm. Lumi took the wheel and rammed the ship into its neighbor, and Room dropped the captain into the ocean and called it pacifism. The chain let go, the Monolith crashed into the ocean, and the moon grew a laughing, tar-black smile. They sailed into the dark with a stolen ship, a new bosun named Ted, and the monster they had freed still aboard.
 
 ## Arc 2 · The Sunken Ship (`sunken_ship`, s02e06–s02e12)
 

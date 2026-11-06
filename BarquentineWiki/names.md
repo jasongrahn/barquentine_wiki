@@ -20,7 +20,7 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | basil | The Captain (Basil) | pc | Bazel, Basel | s02e01 |
 | big_ham | Big Ham | npc |  | s02e41 |
 | billow | Billow | npc |  | s03e03 |
-| blues_letter | Cyan's letter from home | item |  | s02e06 |
+| blues_letter | Cyan's letter from home | item |  | s02e01 |
 | bone_throne | The Bone Throne | item |  | s02e15 |
 | book_of_vile_darkness | The Book of Vile Darkness | item | Vile Darkness | s02e30 |
 | bronzed_rib_cage | Lumi's father's bronzed rib cage | item |  | s03e01 |
@@ -34,12 +34,14 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | geronimo | Geronimo | npc |  | s02e37 |
 | gloria | Gloria (the Captain's eldest sibling) | npc |  | s02e38 |
 | hat_of_disguise | Hat of disguise | item |  | s03e01 |
+| hoot_suit | Room's hoot suit (owlbear suit) | item | Hoot suit | s02e01 |
 | island_of_bral | The Island of Bral | place | Island of Brawl | s02e13 |
 | king_buhrghur | King Buhrghur | npc | King Burger, King Bührgher | s02e13 |
 | knaves_eye_patch | Knave's Eye Patch | item |  | s03e01 |
 | large_luigi | Large Luigi | npc |  | s02e09 |
 | ledger | Ledger | npc |  | s02e25 |
 | lock | Lock | npc |  | s02e16 |
+| lucy | Lucy (Phthalos's mimic ship) | npc |  | s02e01 |
 | lumi | Lumi (Luminariel) | pc | luminario, Lumin Ariel, luminari, Luminer | s02e01 |
 | mercane | The Mercane | npc |  | s02e35 |
 | mira | Mira | npc |  | s03e02 |
@@ -52,6 +54,7 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | philip | Philip (Phil) | npc |  | s03e01 |
 | phthalos | Phthalos | npc | Phathalos, phalos, falos, falo | s02e01 |
 | phthalos_anchor | Phthalos's anchor | item |  | s02e04 |
+| phthalos_belt | Phthalos's belt | item |  | s02e04 |
 | plug | Plug | npc |  | s02e09 |
 | portable_hole | Portable hole | item |  | s03e01 |
 | president_mario | President Mario | npc |  | s02e19 |
@@ -62,6 +65,8 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | room | Room | pc | Rune, Rumi | s02e01 |
 | room_map | Room's map | item |  | s02e19 |
 | rooms_dream | Room's dream | place |  | s02e19 |
+| sea_chart | The Monolith's sea chart (taken by Room) | item |  | s02e04 |
+| scarab_head | Room's scarab-head spell focus | item |  | s02e02 |
 | silent_jim | Silent Jim | npc |  | s02e15 |
 | sirvellica | Sirvellica | npc | Cervillica, Cerebellica, Sarumelica, Serbilica, Cervellica, sir valik, Cvelica, Cavellica, Shvelvelica | s02e16 |
 | slaadi | Slaadi | faction | slod, slot, Slaad | s02e31 |
@@ -74,7 +79,7 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | ted | Ted | npc |  | s02e05 |
 | ted_two | Ted Two (Lumi's undead servant) | npc | Ted 2, Ted too | s02e25 |
 | the_brig | The Flotilla brig | place |  | s02e37 |
-| the_compasses | The compasses (Basil's and Phthalos's; fused in s02e09) | item |  | s02e06 |
+| the_compasses | The compasses (Basil's and Phthalos's; fused in s02e09) | item |  | s02e01 |
 | the_conclave | The Conclave (magic shop on the Rock) | place |  | s02e27 |
 | the_giff_flotilla | The Giff Flotilla | place | Gif Flotilla, gift flotilla, flatillaa | s02e25 |
 | the_manticore | The Manticore (the ship; first called the Ki-Rin) | npc | Ki-Rin: Key Ren, Kyron, kyin, keyin; Manticore: manticor, manacor, meore; "Quinoa" is a player riff | s02e01 |

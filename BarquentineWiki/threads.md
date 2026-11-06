@@ -88,6 +88,8 @@ status: open
 
 ## T-010 · Lumi's fathers
 status: open
+- s02e01 — through Soul Gaze, Lumi shares that at about 14 he found his father's torso, headless and armless, bronzed and locked in a chest; his celestial dad is not his dad
+- s02e02 — Lumi tells the crew about the chest; through Soul Gaze he admits to Blue that his parents didn't just encourage him to leave, they told him to
 - s02e33 — through Commune, Lumi's mother says his father is not Vecna
 - s03e01 — his biological father may be a dismembered bronzed figure in a chest
 - s03e05 — the bronzed rib cage grows and fuses into his armor; his biological father doesn't answer
@@ -140,6 +142,9 @@ status: open
 
 ## T-017 · The compasses and the ship hunt
 status: closed
+- s02e01 — Phthalos hunts the living ship at the bottom of the ocean, which he calls the Manticore; Mr. Catastrophe asks Basil to bring it to him
+- s02e02 — Lumi warns the crew that Phthalos is dead set on the ship of bones and will murder them after; Phthalos agrees
+- s02e04 — Basil recovers his compass, tagged "malfunctioning compass" by the prison's interns
 - s02e06 — Phthalos's ornate compass "must not be working"
 - s02e07 — Basil's compass spins; his patron says it works, but he may not be the right man
 - s02e09 — the two compasses fuse into one; a whirlpool drags the crew to the sunken ship
@@ -148,7 +153,10 @@ status: closed
 
 ## T-018 · Cyan and the plasmoid siblings
 status: open
-- s02e01 — Blue's second vision of the red plasmoid, Hierophant Vermilion
+- s02e01 — Blue's second vision of the red plasmoid, Hierophant Vermilion; Phthalos says the three siblings hold strength, wisdom and faith, and the survivor is brought back for war
+- s02e02 — through Soul Gaze, Lumi sees Vermilion in Blue's mind and learns Blue hasn't told anybody about him
+- s02e03 — Phthalos: figure out what that letter says "before I kill you"; after the fight he tells Blue "it's time for war"
+- s02e04 — Phthalos recovers a massive anchor and a belt that makes his muscles even bigger
 - s02e06 — Blue's letter from home: seek out your siblings and unify them
 - s02e08 — Blue reveals a third plasmoid is hunting them, and refuses to serve Phthalos
 - s02e10 — Blue and Basil end Phthalos
@@ -174,6 +182,7 @@ status: open
 
 ## T-022 · Mr. Catastrophe
 status: open
+- s02e01 — in flashback, Mr. Catastrophe promises Basil all he knows about the ship once it's brought to him, promises Room a map home, and has the crew arrested and sent to Phthalos's prison
 - s02e13 — the crew meet Mr. Catastrophe on the Island of Bral
 - s02e23 — Mr. Catastrophe says the ritual worked, at a cost
 - s02e27 — at the Conclave, the crew meet the real Mr. Catastrophe
@@ -192,3 +201,15 @@ status: closed
 - s02e33 — healing magic fails
 - s02e34 — "you're contested": three reality-shapers can cure it
 - s02e35 — the Cartomancer's cure lifts the infection
+
+## T-025 · Escape from the Monolith
+status: closed
+- s02e01 — stripped of their gear, the crew are lowered into the Monolith's lowest cell; the only way out is the aperture 200 feet up
+- s02e02 — beetle tracks lead to the aperture; Basil and Room fly up, guards dispel the flight and give each of them one warning
+- s02e03 — the crew fly through the aperture together and win the guard room; Room's Locate Object puts his hoot suit "straight up"
+- s02e04 — the crew recover their gear, beat the tower's staff and reach the storm-lashed roof; a flyer has warned the ships, and the Monolith is sinking
+- s02e05 — the crew take an anchor ship; Lumi rams it into its neighbor, the chain dissipates, the Monolith goes into the ocean and the ship sails free
+
+## T-026 · The smiling moon
+status: open
+- s02e05 — as the Monolith's magic breaks loose, the sky turns tar-black and the moon grows an eerie, laughing smile; its tar seizes Lumi, who can't stop laughing
