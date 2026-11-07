@@ -90,6 +90,10 @@ status: open
 status: open
 - s02e01 — through Soul Gaze, Lumi shares that at about 14 he found his father's torso, headless and armless, bronzed and locked in a chest; his celestial dad is not his dad
 - s02e02 — Lumi tells the crew about the chest; through Soul Gaze he admits to Blue that his parents didn't just encourage him to leave, they told him to
+- s02e06 — Lumi asks Basil why a mortal body would be dismembered and locked in a chest; Basil tells him the story of Vecna
+- s02e07 — Lumi's real father is a torso in a chest; his stepdad sorted beings onto live and die lists, and Lumi wonders why he liked the die list more
+- s02e09 — Lumi asks Plug for books on Vecna, a person who "might be connected to someone I know"; Plug's lead is a silver-haired elf with an eyeball
+- s02e11 — on The Pack Talks, Lumi hopes to learn why his mother and stepdad kept his real father's bronzed torso in a chest
 - s02e33 — through Commune, Lumi's mother says his father is not Vecna
 - s03e01 — his biological father may be a dismembered bronzed figure in a chest
 - s03e05 — the bronzed rib cage grows and fuses into his armor; his biological father doesn't answer
@@ -124,6 +128,7 @@ status: closed
 ## T-015 · The Captain's parents and the tribunal
 status: closed
 - s02e08 — Basil admits his parents face the noose
+- s02e11 — on The Pack Talks, Basil says his extended pack is deeply in trouble, and with a ship he can now help them
 - s02e25 — Ledger trades Basil news of his parents
 - s02e34 — the War Saint's price includes testifying at his parents' tribunal
 - s02e36 — the Captain unmasks in the War Saint's waiting room and is let in
@@ -147,6 +152,7 @@ status: closed
 - s02e04 — Basil recovers his compass, tagged "malfunctioning compass" by the prison's interns
 - s02e06 — Phthalos's ornate compass "must not be working"
 - s02e07 — Basil's compass spins; his patron says it works, but he may not be the right man
+- s02e08 — the compasses are twins pointing at each other; the patron: the sea will not suffer two kings
 - s02e09 — the two compasses fuse into one; a whirlpool drags the crew to the sunken ship
 - s02e10 — Basil and Blue end Phthalos in the fight for captaincy
 - s02e12 — the ship rises and Basil claims his promised captaincy
@@ -157,9 +163,12 @@ status: open
 - s02e02 — through Soul Gaze, Lumi sees Vermilion in Blue's mind and learns Blue hasn't told anybody about him
 - s02e03 — Phthalos: figure out what that letter says "before I kill you"; after the fight he tells Blue "it's time for war"
 - s02e04 — Phthalos recovers a massive anchor and a belt that makes his muscles even bigger
-- s02e06 — Blue's letter from home: seek out your siblings and unify them
+- s02e06 — Blue's letter from home: seek out your siblings and unify them; Phthalos's own note says seek out, destroy, dominate
+- s02e07 — Blue fails to reach Hierophant Vermilion in meditation; Phthalos means to prove himself strongest, then find his dad and kill him
 - s02e08 — Blue reveals a third plasmoid is hunting them, and refuses to serve Phthalos
+- s02e09 — a voice inside the bubble wanted a plasmoid, got two, and calls for a fight to the death; Basil feebleminds Phthalos
 - s02e10 — Blue and Basil end Phthalos
+- s02e11 — in the flash-forward special Blue introduces himself as Cyan, wearing a belt, "greener than I used to"
 - s02e12 — wearing Phthalos's belt, Blue's color shifts; he is Cyan
 - s02e14 — Cyan leaves with Vermilion, saying goodbye only in a note
 
@@ -183,6 +192,7 @@ status: open
 ## T-022 · Mr. Catastrophe
 status: open
 - s02e01 — in flashback, Mr. Catastrophe promises Basil all he knows about the ship once it's brought to him, promises Room a map home, and has the crew arrested and sent to Phthalos's prison
+- s02e12 — Davitt the documentarian sails with four near-identical able-bodied men that Mr. Catastrophe sent him from Bral
 - s02e13 — the crew meet Mr. Catastrophe on the Island of Bral
 - s02e23 — Mr. Catastrophe says the ritual worked, at a cost
 - s02e27 — at the Conclave, the crew meet the real Mr. Catastrophe
@@ -213,3 +223,11 @@ status: closed
 ## T-026 · The smiling moon
 status: open
 - s02e05 — as the Monolith's magic breaks loose, the sky turns tar-black and the moon grows an eerie, laughing smile; its tar seizes Lumi, who can't stop laughing
+- s02e06 — the fit passes, but the moon still bleeds tar; Room senses it isn't magic, but something bigger
+- s02e07 — under the moon, rest heals only half
+- s02e08 — as Room calls on Baku in his dream, the tar moon lifts and the normal moon returns
+- s02e11 — Lumi tells the talk show he is still uneasy around the moon
+
+## T-027 · The talk-show chest
+status: open
+- s02e11 — when The Pack Talks ends in a werewolf brawl, the studio empties and leaves a chest behind

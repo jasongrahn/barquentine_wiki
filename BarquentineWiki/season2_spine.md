@@ -26,13 +26,21 @@ On a storm-lashed roof 350 feet over the sea, the tower already sinking, they fe
 
 ## Arc 2 · The Sunken Ship (`sunken_ship`, s02e06–s02e12)
 
-- **s02e06 · 2 Hours Until Sunrise** ? — Ted stays aboard as lookout. A summoned incubus reads Blue's letter from home: seek out your siblings and unify them. Phthalos's ornate compass "must not be working." [Recap s02e07 00:00:00]
+- **s02e06 · 2 Hours Until Sunrise** ✓ — Ted stays aboard as lookout. A summoned incubus reads Blue's letter from home: seek out your siblings and unify them. Phthalos's ornate compass "must not be working." [Recap s02e07 00:00:00]
 - **s02e07 · Unexpected and Unappreciated (Parts 1–2)** ✓ — Basil's compass spins wildly, and Luminariel asks to be called Lumi. The sleeping crew run aground on a wreck. Basil's patron says the compass works but he may not be the right man. [Recap s02e08 00:00:00]
 - **s02e08 · Definitely Won't Be a Problem Later** ✓ — Room dreams of his home world burning, and Basil admits his parents face the noose. Blue reveals a third plasmoid is hunting them. He then challenges Phthalos and refuses to serve him. [Recap s02e09 00:00:00]
 - **s02e09 · This Guy You Know** ✓ — At Plug's shop-ship, Basil touches the two compasses together and they fuse into one. A whirlpool drags the crew to a sunken cavern, where a bubble seals Basil, Blue and Phthalos aboard an ancient ship. [Recap s02e10 00:01:03]
 - **s02e10 · 28 Bones Later** ✓ — Basil and Blue end Phthalos in the fight for captaincy. Lumi holds off the undead outside, and a wraith warns him the ship is cursed. Then the cavern roof gives way. [Recap s02e12 00:00:00]
-- **s02e11 · My A Is Getting E'd** ? — In a Halloween special, the crew guest on the werewolf talk show *Pack Talks*. The interview ends in a werewolf brawl and an unopened chest. *(own transcript)* [VTT s02e11 00:03:08] [VTT s02e11 01:58:26]
-- **s02e12 · I'm Not Sure What I've Gotten Us Into** ? — The ship bursts up through a breaching whale. Basil claims his promised captaincy, and the Ki-Rin turns out to be the Manticore. The documentarian Davitt broadcasts the crew's tale. [Recap s02e13 00:01:00]
+- **s02e11 · My A Is Getting E'd** ✓ — In a Halloween special, the crew guest on Ciaran Silverhowl's werewolf talk show *The Pack Talks*. The interview ends in a werewolf brawl and an unopened chest. *(own transcript)* [VTT s02e11 00:03:08] [VTT s02e11 01:58:26]
+- **s02e12 · I'm Not Sure What I've Gotten Us Into** ✓ — The ship bursts up through a breaching whale. Basil claims his promised captaincy, and the Ki-Rin turns out to be the Manticore. The documentarian Davitt broadcasts the crew's tale. [Recap s02e13 00:01:00]
+
+### Arc recap
+
+They sailed out under a grinning, tar-bleeding moon with a stolen ship, Ted in the crow's nest and Phthalos below decks, his anchor able to tear a soul from a body. A summoned incubus, paid with a kiss that drained Ted, read Blue's letter from home: seek out your siblings and unify them. Phthalos's own note said destroy, dominate, find Dad. Basil's compass spun, then pointed straight at Phthalos, whose ornate compass pointed right back. They salvaged a wreck on a sandbar, Luminariel asked to be called Lumi, and Phthalos told of the Manticore, a living, vile ship that wants a captain of sufficient moral ambiguity. Basil's patron said the compass works, but maybe not for him, and then: *"the sea will not suffer two kings on a single throne."*
+
+Room called on Baku and the moon went back to normal. Basil admitted his parents face execution. Blue revealed a third plasmoid hunting them and told Phthalos he would not serve him. At Plug's butt ugly stuff ship they bought a leaky diving kit and a lead on the V word. A vote on the captaincy went nowhere, but when Basil touched the needles together, the compasses fused into a sphere, a whirlpool opened, and the ship went down to the seafloor. A canal of impossible geometries brought them to an aged ship in a cavern, where a bubble sealed Basil, Blue and Phthalos aboard for a fight to the death while Room, Lumi and Ted held the dock. Lumi's mother's amulet turned the undead to ash. Blue punched until Phthalos burst. A wraith warned that the ship is cursed, and the roof gave way.
+
+In a flash-forward, the crew guest on Ciaran Silverhowl's *The Pack Talks*, where Blue introduces himself as Cyan and the interview ends in a werewolf brawl and a chest on an empty stage. Then the ship burst up through a breaching whale. Phthalos's remains were gone, and Blue, wearing his belt, had turned a new color: Cyan. Davitt the documentarian broadcast their underdog story toward Bral. On the hull, Ki-Rin and Blessed Vengeance are gouged over with a new name, the Manticore. Basil's ship and Phthalos's were the same ship all along. It took Basil as captain, laughed, and called him *"my homie."* It rejects mending and shuns light, and somewhere in the dark, something heard it.
 
 ## Arc 3 · Fitting Out (`island_of_bral`, s02e13–s02e18)
 
@@ -101,7 +109,7 @@ Each cut falls where the crew's location or goal changes.
 
 ## Notes and anomalies
 
-- **E11 is a Halloween special.** Its talk show was made canon in E14, which hands out the talk-show rewards [Recap s02e14 00:02:02]. In E11, Blue speaks of killing his sibling, so the special takes place after E10. The host's name is captioned "Syrian silal" and "syan silver how". The spelling is unconfirmed.
+- **E11 is a Halloween special.** Its talk show was made canon in E14, which hands out the talk-show rewards [Recap s02e14 00:02:02]. In E11, Blue speaks of killing his sibling, so the special takes place after E10. The host is Ciaran Silverhowl, spelled as in the DM's doc for the special (captioned "Syrian silal" and "syan silver how"). The title is spoken as "my A is being E'd" [VTT s02e11 01:11:56].
 - **Blue becomes Cyan in E12.** Wearing Phthalos's belt, his body's color shifts [VTT s02e12 00:08:32]. He is "Cyan" from E13 on.
 - **E19 opening** includes a DM retelling of Room's backstory [VTT s02e19 00:02:03]. E21's recap of E20 shares no key terms with E19 (hideout, Periwinkle, knobs), so it covers the missing E20.
 - **E28–E29:** E30's opening recaps E27 ("two sessions ago"). E28 centres on Lumi and E29 is an interlude, so neither got a recap.
