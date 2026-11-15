@@ -10,8 +10,11 @@ The storyline ledger. Each thread lists every episode that touches it, so a call
 status: open
 - s02e10 — a wraith warns Lumi the ship is cursed
 - s02e12 — the ship rises through a whale; the Ki-Rin is the Manticore
+- s02e13 — Mr. Catastrophe: one of the most vile artifacts on the planet, but it can be redeemed, at a toll on whoever crews it
 - s02e15 — Elder Abarat: a throne, 600 platinum and a ritual will bind the rod to the ship
-- s02e17 — animal sacrifice fails to heal it; it wants something more violent
+- s02e16 — the bone throne, built from a beholder's rivals, goes aboard; Basil: the second step to restoring the ship is "probably an unfortunate amount of" blood
+- s02e17 — Douglas tells the Ki-Rin's history; a chicken sacrifice fails ("no glory and no malice"); Basil tells Lumi the ship's voice is his patron
+- s02e18 — Lumi goes looking for a prisoner to bleed on deck in place of a chicken; the jailhouse won't lease one
 - s02e23 — the Bone Throne is welded to the deck and the ship rises into space
 - s02e24 — the ship heals wherever someone died aboard
 - s02e33 — the shadow entity: the ship wants the infection, and the infection knows the ship
@@ -31,6 +34,7 @@ status: open
 status: open
 - s02e03 — after a dream of flight and an eye, Room calls on Baku to eat his dreams
 - s02e08 — Room dreams of his home world burning
+- s02e15 — Room learns Baku is a nursery-rhyme creature from his grandmother, not her name
 - s02e19 — the crew enter Room's dream in search of his map home
 - s03e01 — his grandmother's charm: "Baku, come eat my dreams"
 - s03e02 — Baku answers faster than ever and eats a dead world's last memory
@@ -38,6 +42,8 @@ status: open
 
 ## T-004 · Room's map home to Ravnica
 status: open
+- s02e13 — Mr. Catastrophe: every loxodon knows the way home; linked magic from 200 elves can send the crew into Room's dreams to find the map
+- s02e15 — Room's message home reaches his grandmother: getting home is in his soul, and "we are all in trouble"
 - s02e19 — the crew enter Room's dream to find the map home
 - s02e22 — they escape the dream with the recipe
 - s02e23 — the map's first destination: the Rock
@@ -81,7 +87,7 @@ status: open
 
 ## T-009 · Lumi's face and Eberron's savior
 status: open
-- s02e15 — Elder Abarat hints he knows something about Cyan, and maybe Lumi
+- s02e15 — Elder Abarat: someone who looked a lot like Lumi made a deal in a terrible war and became the first warforged
 - s03e02 — someone once told Lumi he looks just like a person tied to Eberron's war
 - s03e03 — Abarat said the first automaton looked just like Lumi
 - s03e04 — the one who made Abarat's people Warforged "looked like me"
@@ -94,6 +100,10 @@ status: open
 - s02e07 — Lumi's real father is a torso in a chest; his stepdad sorted beings onto live and die lists, and Lumi wonders why he liked the die list more
 - s02e09 — Lumi asks Plug for books on Vecna, a person who "might be connected to someone I know"; Plug's lead is a silver-haired elf with an eyeball
 - s02e11 — on The Pack Talks, Lumi hopes to learn why his mother and stepdad kept his real father's bronzed torso in a chest
+- s02e13 — Lumi's hypothetical to Mr. Catastrophe: someone traded a god something for a deed; keep the chest locked
+- s02e15 — the bookstore's mousekin lists warlock pacts, sacrifices to deities and stealing a soul, then slips Lumi two scraps not to be read aloud
+- s02e17 — Lumi: his eyes went black around his 16th birthday, after helping his dad sort the dying at the Celestial Mortal Life and Death department; then he found his real father in the chest
+- s02e18 — Lumi reads the mousekin's two scraps: one word each, and he's anxious he'll say one aloud
 - s02e33 — through Commune, Lumi's mother says his father is not Vecna
 - s03e01 — his biological father may be a dismembered bronzed figure in a chest
 - s03e05 — the bronzed rib cage grows and fuses into his armor; his biological father doesn't answer
@@ -101,6 +111,7 @@ status: open
 ## T-011 · The captain's quarters door
 status: open
 - s02e17 — Basil and Room kick in the captain's door and fall into Captain Welsh's memory
+- s02e18 — the memory ends through the stateroom door, which now opens; the captain's quarters stay jammed
 - s03e01 — the Captain still can't open it
 
 ## T-012 · Alistair and Victoria, unacknowledged
@@ -129,6 +140,7 @@ status: closed
 status: closed
 - s02e08 — Basil admits his parents face the noose
 - s02e11 — on The Pack Talks, Basil says his extended pack is deeply in trouble, and with a ship he can now help them
+- s02e15 — the Giff legal system is inscrutable; Basil hopes it's a misunderstanding cleared up quickly
 - s02e25 — Ledger trades Basil news of his parents
 - s02e34 — the War Saint's price includes testifying at his parents' tribunal
 - s02e36 — the Captain unmasks in the War Saint's waiting room and is let in
@@ -170,7 +182,9 @@ status: open
 - s02e10 — Blue and Basil end Phthalos
 - s02e11 — in the flash-forward special Blue introduces himself as Cyan, wearing a belt, "greener than I used to"
 - s02e12 — wearing Phthalos's belt, Blue's color shifts; he is Cyan
+- s02e13 — Mr. Catastrophe has a summons from a religious cloister that needs hands to deliver goods; Cyan names Hierophant Vermilion: "I know he's my brother"
 - s02e14 — Cyan leaves with Vermilion, saying goodbye only in a note
+- s02e15 — told how Blue absorbed Phthalos, Elder Abarat mutters that someone's "research is going too far"
 
 ## T-019 · The Cartomancer's curse
 status: open
@@ -197,9 +211,9 @@ status: open
 - s02e23 — Mr. Catastrophe says the ritual worked, at a cost
 - s02e27 — at the Conclave, the crew meet the real Mr. Catastrophe
 
-## T-023 · King Buhrghur
+## T-023 · King Bhurgher
 status: open
-- s02e18 — Lumi shows King Buhrghur around the ship
+- s02e18 — an elf calling himself Captain Bhurgher boards the ship; Lumi shows him around, fights him and runs him off; Basil suspects King Bhurgher
 - s02e27 — a ringing coin brings his summons to Supper Nova
 - s02e36 — Room and Lumi cook for him as the Supper Gyozas
 - s02e37 — the Supper Gyozas win, and he takes the credit
@@ -229,5 +243,7 @@ status: open
 - s02e11 — Lumi tells the talk show he is still uneasy around the moon
 
 ## T-027 · The talk-show chest
-status: open
+status: closed
 - s02e11 — when The Pack Talks ends in a werewolf brawl, the studio empties and leaves a chest behind
+- s02e13 — a restored Ted brings word that a talk show wants to interview the crew
+- s02e14 — the crew take the talk show as canon; the DM hands out its rewards: a potion of greater healing each and 100 gold each
