@@ -58,8 +58,8 @@ lint_recap <- function(text, file, name_table, threads) {
   if (!is.null(fm[["title"]]) && !identical(fm[["title"]], h1)) {
     problems <- c(problems, "title does not match H1")
   }
-  if (!is.null(fm[["source_tier"]]) && !fm[["source_tier"]] %in% c("zoom", "youtube")) {
-    problems <- c(problems, "source_tier must be zoom or youtube")
+  if (!is.null(fm[["source_tier"]]) && !fm[["source_tier"]] %in% c("zoom", "youtube", "whisper")) {
+    problems <- c(problems, "source_tier must be zoom, youtube or whisper")
   }
   if (!is.null(fm[["recorded"]]) && !grepl("^\\d{4}-\\d{2}-\\d{2}$", fm[["recorded"]])) {
     problems <- c(problems, "recorded must be YYYY-MM-DD")

@@ -35,7 +35,10 @@ status: open
 - s02e03 — after a dream of flight and an eye, Room calls on Baku to eat his dreams
 - s02e08 — Room dreams of his home world burning
 - s02e15 — Room learns Baku is a nursery-rhyme creature from his grandmother, not her name
-- s02e19 — the crew enter Room's dream in search of his map home
+- s02e19 — Room can't enter his own dream; inside it, he can reach Basil and Lumi only through his spells
+- s02e20 — Room sees a moment of the dream out of order and saves Basil's stealth; Basil thanks Baku
+- s02e21 — a potion of greater healing turns up just when Basil needs it; the crew take it as Room gaining control of his dream
+- s02e22 — a sludge monster eats the dream; Room calls Baku to eat it and is answered, "Feed me your dreams"; Room wakes remembering none of it, fey-touched
 - s03e01 — his grandmother's charm: "Baku, come eat my dreams"
 - s03e02 — Baku answers faster than ever and eats a dead world's last memory
 - s03e05 — Room believes the entombed creature is Baku; the Captain disagrees
@@ -44,8 +47,10 @@ status: open
 status: open
 - s02e13 — Mr. Catastrophe: every loxodon knows the way home; linked magic from 200 elves can send the crew into Room's dreams to find the map
 - s02e15 — Room's message home reaches his grandmother: getting home is in his soul, and "we are all in trouble"
-- s02e19 — the crew enter Room's dream to find the map home
-- s02e22 — they escape the dream with the recipe
+- s02e19 — Basil and Lumi enter Room's dream to find the map home; President Mario hires them to recover his secret recipe
+- s02e20 — with Mario's map and cloaks of the bat, Basil and Lumi sneak into the Beak and through the pool to a laser door with two dials
+- s02e21 — past the dial door, a trapped bakery and the vault door; a young lunar dragon has burrowed into the vault and calls it its nest
+- s02e22 — Lumi banishes the dragon; Periwinkle offers a Red Flag Fleet reward to leave the recipe, but Lumi carries it out as the dream is consumed
 - s02e23 — the map's first destination: the Rock
 - s02e26 — the map names the next stop: Eberron, Elder Abarat's glassed home world
 - s03e02 — Eberron is the second stop, after the Rock
@@ -104,6 +109,9 @@ status: open
 - s02e15 — the bookstore's mousekin lists warlock pacts, sacrifices to deities and stealing a soul, then slips Lumi two scraps not to be read aloud
 - s02e17 — Lumi: his eyes went black around his 16th birthday, after helping his dad sort the dying at the Celestial Mortal Life and Death department; then he found his real father in the chest
 - s02e18 — Lumi reads the mousekin's two scraps: one word each, and he's anxious he'll say one aloud
+- s02e19 — the scraps in Lumi's pocket grow warm when someone suggests killing the cleric who overcharged them
+- s02e20 — the scraps heat again at talk of burning the compound; Lumi decides he has "hot hands"
+- s02e22 — Lumi's first spirit guardians: one angelic being, then a dark, savory-smelling one
 - s02e33 — through Commune, Lumi's mother says his father is not Vecna
 - s03e01 — his biological father may be a dismembered bronzed figure in a chest
 - s03e05 — the bronzed rib cage grows and fuses into his armor; his biological father doesn't answer
@@ -208,6 +216,7 @@ status: open
 - s02e01 — in flashback, Mr. Catastrophe promises Basil all he knows about the ship once it's brought to him, promises Room a map home, and has the crew arrested and sent to Phthalos's prison
 - s02e12 — Davitt the documentarian sails with four near-identical able-bodied men that Mr. Catastrophe sent him from Bral
 - s02e13 — the crew meet Mr. Catastrophe on the Island of Bral
+- s02e19 — at the full moon, with his elves linked on the Elven Rodeo's roof, Mr. Catastrophe puts Basil and Lumi to sleep inside Room's dream
 - s02e23 — Mr. Catastrophe says the ritual worked, at a cost
 - s02e27 — at the Conclave, the crew meet the real Mr. Catastrophe
 

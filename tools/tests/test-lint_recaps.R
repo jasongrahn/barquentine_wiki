@@ -59,6 +59,7 @@ test_that("title must equal the H1", {
 
 test_that("source_tier, recorded and recap_prose are validated", {
   expect_problem(lint(recap(source_tier = "vimeo")), "source_tier")
+  expect_identical(lint(recap(source_tier = "whisper")), character())
   expect_problem(lint(recap(recorded = "Nov 3")), "recorded")
   expect_problem(lint(recap(recap_prose = "dm")), "recap_prose")
   expect_identical(lint(recap(recap_prose = "dm_intro s3e7")), character())

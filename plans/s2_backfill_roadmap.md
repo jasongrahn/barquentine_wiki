@@ -11,7 +11,7 @@ S3E1–S3E6 recaps are done (`BarquentineWiki/sessions/`). The goal is a recap l
 **Sources:**
 - **Zoom tier, S2E34–S2E43.** `GMT…_Recording.transcript.vtt`, speaker-labeled. Confirmed: GMT20251223 = E34, 0113 = E35, 0127 = E36. E37–E43 = the next 7 GMT files by date (to verify).
 - **YouTube tier, S2E1–S2E33.** `Barquentine! S2E….transcript.vtt`: auto-captions, no speaker labels, `[ __ ]` censoring. Each opens with the DM's "Previously on."
-- **Gaps:** S2E20 has no transcript. S2E7 is split into Part 1 and Part 2. The descriptive-name S2E34 file is a YouTube duplicate, so the Zoom copy wins.
+- **Gaps:** S2E20 has no captions; its transcript was made with Whisper from the NAS recording (2026-11-17). S2E7 is split into Part 1 and Part 2. The descriptive-name S2E34 file is a YouTube duplicate, so the Zoom copy wins.
 - **DM intros:** Google Doc "Barquentine Episode notes" (`1m5xXbEsPBFdTZAUoUAgj6a14I7aF8LcszCmX-r1mBbs`) has intros s2e33 through s2e43. Each "s2eN intro" recaps S2E(N−1), so E32–E42 already have DM prose. The same doc has DM prep notes for E14–17, 25, 26, 32. Those are a plan, not canon, but useful for spelling names.
 - **Old S2E34–36 pipeline files:** keep their entity-list frontmatter idea. Replace the rest.
 
@@ -33,7 +33,8 @@ S3E1–S3E6 recaps are done (`BarquentineWiki/sessions/`). The goal is a recap l
 | **E2** ✅ 2026-11-06 | Arc 1, The Monolith (s02e01–s02e05) | Five recaps plus arc recap | See `plans/e2_subplan.md` Retro | 1 sitting |
 | **E3** ✅ 2026-11-06 | Arc 2, The Sunken Ship (s02e06–s02e12) | Seven recaps plus arc recap | See `plans/e3_subplan.md` Retro | 2 sittings |
 | **E4** ✅ 2026-11-14 | Arc 3, Fitting Out (s02e13–s02e18) | Six recaps plus arc recap | See `plans/e4_subplan.md` Retro | 3 sittings |
-| **E5…E8** | One arc per epic: 7 arcs, set in E1 (see `BarquentineWiki/season2_spine.md`) | Full recaps for that arc's episodes, plus a 3-paragraph arc recap | All episodes pass the per-episode DoD (below); arc recap written; DM line-edits done; committed | 1 sitting each, ~4–6 h |
+| **E5** ✅ 2026-11-17 | Arc 4, The Recipe Heist (s02e19–s02e22) | Four recaps plus arc recap | See `plans/e5_subplan.md` Retro | 2 sittings |
+| **E6…E8** | One arc per epic: 7 arcs, set in E1 (see `BarquentineWiki/season2_spine.md`) | Full recaps for that arc's episodes, plus a 3-paragraph arc recap | All episodes pass the per-episode DoD (below); arc recap written; DM line-edits done; committed | 1 sitting each, ~4–6 h |
 | **Ez** | Retire old S2 files | The old project's S2E34–36 content fully replaced | No pipeline-format frontmatter left in `sessions/` | folded into the E34–36 arc |
 
 ### Per-episode Definition of Done (applies inside every arc epic)
@@ -82,7 +83,7 @@ S3E1–S3E6 recaps are done (`BarquentineWiki/sessions/`). The goal is a recap l
 | `BarquentineWiki/season2_spine.md` | Episode lines plus the arc recaps |
 | `BarquentineWiki/threads.md` | `T-###` ledger: status, each episode it touches with a cite, and its payoff |
 | `BarquentineWiki/names.md` | Canonical name, slug, transcript misspellings, first appearance |
-| `BarquentineWiki/sessions/s02eYY.md` | Recaps (E20 gets a stub saying the source is missing) |
+| `BarquentineWiki/sessions/s02eYY.md` | Recaps (E20 from a Whisper transcript) |
 | `recap_playbook.md`, `CLAUDE.md` | Add the schema, YouTube-tier rules, GMT map, S2 DM-intro mapping, spoiler rule |
 
 ### Frontmatter schema (draft; E0 finalizes it)
