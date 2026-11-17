@@ -44,7 +44,7 @@ Fabrication is the failure mode. Check every specific claim against the **raw VT
 - The ship's names, in order: **Ki-Rin → The Ki-Rin's Blessed Vengeance → The Manticore**. "Quinoa" is Lumi's player riffing.
 - **Elder Abarat** is the canon spelling (transcripts render it Abarath, Abarrett, Abberet, Aberatt).
 - **S2 PC roster:** Basil, Room, Lumi and Cyan. Cyan is called **Blue** until his color shifts in s02e12, and he leaves with Vermilion in s02e14. Pyxis, from S1, is gone before s02e01. Lumi is short for **Luminariel** (s02e07).
-- **S2 spellings set by the DM:** Phthalos, Island of Bral, Tiny's Tipsy by the Sea, Captain Welsh, Attornash, King Bhurgher, Davitt, Bards and Nobles, Furrizon Wireless, Centaury 21, the Cofishioner, trobster. Basil's alias in the Ki-Rin's past is Rex. `BarquentineWiki/names.md` holds every name and its caption variants.
+- **S2 spellings set by the DM:** Phthalos, Island of Bral, Tiny's Tipsy by the Sea, Captain Welsh, Attornash, King Bhurgher, Davitt, Bards and Nobles, Furrizon Wireless, Centaury 21, the Cofishioner, trobster, Gene (the dohwar), the Raft. Basil's alias in the Ki-Rin's past is Rex. `BarquentineWiki/names.md` holds every name and its caption variants.
 - Episode IDs are `sXXeYY`. 2026-10-20 = **S3E5**.
 
 ## Frontmatter
@@ -57,7 +57,7 @@ episode: s03e06                     # matches the filename
 title: "It Really Ties It Together" # identical to the H1
 recorded: 2026-11-03                # local date the session was played
 source: GMT20261104-021831_Recording.transcript.vtt
-source_tier: zoom                   # zoom | youtube
+source_tier: zoom                   # zoom | youtube | whisper (local transcript of the recording, when no captions exist)
 recap_prose: generated              # or: dm_intro s3e7 (the intro tab whose prose is used)
 arc: ~                              # arc slug; ~ until E1 names the arcs
 npcs: [mira, victoria]              # slugs from names.md, type npc
