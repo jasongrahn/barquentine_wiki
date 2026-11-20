@@ -53,6 +53,7 @@ The Google Doc **"Barquentine S3 notes"** (`1-3qYQxAMc7TZ2PZElrNrwvfzFP5m40Zk5SW
 | s3e4 intro | S3E3 |
 | S3e5 intro | S3E4 |
 | S3e6 intro *(filled 2026-11-03 from the generated recap)* | S3E5 |
+| s3e7 intro *(filled 2026-11-17: generated recap punched up, DM-approved)* | S3E6 |
 
 ## Season 2 sources
 

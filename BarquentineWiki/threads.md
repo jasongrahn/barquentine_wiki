@@ -56,6 +56,7 @@ status: open
 - s03e02 — Eberron is the second stop, after the Rock
 - s03e03 — the map is stuck on this planet
 - s03e04 — no third point until the crew does what it came here to do
+- s03e07 — at the statue, something dark on Room's map lights up: a heading
 
 ## T-005 · The creature entombed on Eberron
 status: open
@@ -73,14 +74,16 @@ status: open
 - s03e04 — Plan A fails; the crew leans toward killing it
 - s03e05 — the worm swallows the crew and sets them down unharmed beside a living aquifer
 - s03e06 — Mira wanted it gone because it came through her lair
+- s03e07 — Room screams to it for help mid-fight; it never comes
 
 ## T-007 · Mira
-status: open
+status: closed
 - s03e01 — closing narration: bodies encased, deeper within the tunnel
 - s03e02 — an old woman keeping a dying stranger's promise to protect the planet
 - s03e04 — her bedroom is empty while the crew sits in her hut
 - s03e05 — the Captain's note: "Mira betrays Us"
 - s03e06 — she has sealed the whole crew in glass in her lair, and she is a dragon
+- s03e07 — killed in her own lair: she turns to glass and shatters, and the crew walks free
 
 ## T-008 · Victoria's chest and the key
 status: open
@@ -89,6 +92,7 @@ status: open
 - s02e43 — "every key needs its lock": the weapon waits on a planet
 - s03e03 — Victoria carries a big chest the crew assumes is the weapon
 - s03e06 — Mira has taken it, with the key to the annihilating sphere inside
+- s03e07 — Victoria hauls it out of the Giff hoard: the glowing sphere, "the key that starts" the big weapon; "Every key needs a lock"
 
 ## T-009 · Lumi's face and Eberron's savior
 status: open
@@ -96,6 +100,7 @@ status: open
 - s03e02 — someone once told Lumi he looks just like a person tied to Eberron's war
 - s03e03 — Abarat said the first automaton looked just like Lumi
 - s03e04 — the one who made Abarat's people Warforged "looked like me"
+- s03e07 — the statue: the first Warforged beside a man with Lumi's face; Abarat's myth of the man who gave his soul, and his confession that he let go of him on Toril and "only I came back"
 
 ## T-010 · Lumi's fathers
 status: open
@@ -115,6 +120,7 @@ status: open
 - s02e33 — through Commune, Lumi's mother says his father is not Vecna
 - s03e01 — his biological father may be a dismembered bronzed figure in a chest
 - s03e05 — the bronzed rib cage grows and fuses into his armor; his biological father doesn't answer
+- s03e07 — the rib cage answers the statue with one low note; Lumi's hand fits the stone palm
 
 ## T-011 · The captain's quarters door
 status: open
@@ -138,6 +144,7 @@ status: open
 - s03e02 — the marble is the Giff banishment colony
 - s03e04 — no trace of the marooned Giff
 - s03e06 — Mira ate them: "How delicious they were"
+- s03e07 — beyond Mira's lair, a mountain of Giff gold, dug out of the glass one plate at a time
 
 ## T-014 · Ted's horse
 status: closed
@@ -204,6 +211,7 @@ status: open
 - s02e30 — a rain cloud forms over Lumi's head
 - s02e33 — Lumi speaks the words "Vile Darkness" twice and a shadow entity appears
 - s02e37 — the rain cloud marks seekers of the Book of Vile Darkness
+- s03e07 — the inky black veins run down Lumi's arm into a life-stealing sword from the hoard, and the cloud cracks thunder
 
 ## T-021 · Ted Two
 status: open
@@ -256,3 +264,7 @@ status: closed
 - s02e11 — when The Pack Talks ends in a werewolf brawl, the studio empties and leaves a chest behind
 - s02e13 — a restored Ted brings word that a talk show wants to interview the crew
 - s02e14 — the crew take the talk show as canon; the DM hands out its rewards: a potion of greater healing each and 100 gold each
+
+## T-028 · The Unifier
+status: open
+- s03e07 — Abarat, forehead to the statue's glass, says "Unifier"; then, looking at the bronze in Lumi's chest: "Unifier?"

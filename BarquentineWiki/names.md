@@ -46,13 +46,15 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | douglas | Douglas (the hook-handed sea dog at Tiny's Tipsy) | npc | dougas, dlas | s02e17 |
 | draconic_spirit | The draconic spirit (Room's summoned sapphire dragon, inside his dream) | npc | sapphire dragon, chronic spirit | s02e22 |
 | eberron | Eberron (the marble) | place | Eberon, Ebron | s02e26 |
-| elder_abarat | Elder Abarat | npc | Abarath, Abarrett, Abberet, Aberatt, apparat, abat, Avarat, Amarat, Abra | s02e13 |
+| elder_abarat | Elder Abarat | npc | Abarath, Abarrett, Abberet, Aberatt, apparat, abat, Avarat, Amarat, Abra, Aperatt, Abrak, Aberant, Abarott, Avra, Deborah | s02e13 |
 | elven_rodeo | The Elven Rodeo (Mr. Catastrophe's nightclub on Bral) | place | Elvin Rodeo | s02e01 |
 | false_lich | The false lich of Hoovale | npc | the Lich | s02e14 |
 | fey_spirit | The fey spirit (Room's summon fey, inside his dream) | npc | fay spirit, face spirit, Fay | s02e21 |
+| first_warforged_statue | The statue in the hoard (the first Warforged beside a man with Lumi's face, sealed in a glass column) | item |  | s03e07 |
 | furrizon_wireless | Furrizon Wireless (Cletus's shop) | place | fries and wireless, Verizon Wireless, forizon wireless, Horizon Wireless | s02e08 |
 | gene | Gene (a dohwar of the Silver Beak cartel; in Room's dream) | npc | Jean | s02e19 |
 | geronimo | Geronimo | npc |  | s02e37 |
+| giff_hoard | The Giff hoard (the gold hollow beyond Mira's lair) | place | Dragon Horn, Dragon Horse | s03e07 |
 | gilded_rib_cage | Basil's shrunken gilded rib cage (a Luigi special order) | item | gilded rib | s02e15 |
 | gloria | Gloria (the Captain's eldest sibling) | npc |  | s02e38 |
 | happy_beholder | The Happy Beholder (Large Luigi's tavern in Room's dream) | place | Lodge Luigi's happy Beholder | s02e19 |
@@ -66,6 +68,7 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | large_luigi | Large Luigi (a beholder; in Room's dream he runs the Happy Beholder tavern) | npc | Lodge Luigi | s02e09 |
 | lawful_goodwill | The Lawful Goodwill (thrift shop on Bral) | place | awful Goodwill | s02e15 |
 | ledger | Ledger | npc |  | s02e25 |
+| lifestealing_sword | Lumi's life-stealing sword (from the Giff hoard; unnamed at the table) | item |  | s03e07 |
 | lock | Lock | npc |  | s02e16 |
 | lucy | Lucy (Phthalos's mimic ship) | npc |  | s02e01 |
 | lumi | Lumi (Luminariel) | pc | luminario, Lumin Ariel, luminari, Luminer | s02e01 |
@@ -88,6 +91,8 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | president_mario | President Mario | npc |  | s02e19 |
 | pyxis | Pyxis | pc | pixus | s02e01 |
 | ravnica | Ravnica | place |  | s03e02 |
+| ring_of_earth_elemental_command | Room's ring of elemental command (earth) | item |  | s03e07 |
+| ring_of_spell_storing | Basil's ring of spell storing | item |  | s03e07 |
 | robe_of_useful_items | Lumi's robe of useful items | item |  | s02e14 |
 | robert | Robert (a trobster: half triton, half lobster) | npc | Tropster, tster, drster, trer | s02e16 |
 | room | Room | pc | Rune, Rumi | s02e01 |
@@ -97,6 +102,7 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | sandbar_wreck | The wreck on the sandbar | place |  | s02e07 |
 | sapphire_glasses | Blue's sapphire-lensed glasses | item |  | s02e07 |
 | scarab_head | Room's scarab-head spell focus | item |  | s02e02 |
+| scimitar_of_speed | Room's scimitar of speed | item |  | s03e07 |
 | sea_chart | The Monolith's sea chart (taken by Room) | item |  | s02e04 |
 | secret_recipe | President Mario's secret recipe for sweet honeyfish moon cakes | item | honeyfish moon cakes | s02e19 |
 | silent_jim | Silent Jim | npc |  | s02e15 |
@@ -106,7 +112,9 @@ Canonical names and the slugs recap frontmatter uses for them. `tools/lint_recap
 | slaadi | Slaadi | faction | slod, slot, Slaad | s02e31 |
 | soul_coin | Lumi's soul coin | item |  | s03e01 |
 | space_clowns | Space clowns | faction |  | s02e26 |
+| spell_guard_shield | Lumi's spellguard shield | item | spell guard shield | s03e07 |
 | sphere_of_annihilation | The Sphere of Annihilation (the key) | item | annihilating sphere | s02e37 |
+| staff_of_withering | Basil's staff of withering | item |  | s03e07 |
 | stock | Stock | npc | Stalk | s02e16 |
 | sunken_cavern | The sunken cavern (whirlpool cave, canal and the aged ship's cavern) | place |  | s02e09 |
 | supper_gyozas | The Supper Gyozas (Room and Lumi's cooking team) | faction | Supergiosis | s02e36 |
