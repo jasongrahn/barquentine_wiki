@@ -69,7 +69,8 @@ lint_recap <- function(text, file, name_table, threads) {
     problems <- c(problems, "recap_prose must be 'generated' or 'dm_intro sNeN'")
   }
 
-  slug_types <- c(npcs = "npc", places = "place", items = "item")
+  # factions is optional (added 2026-11-24), so it isn't in required_keys.
+  slug_types <- c(npcs = "npc", places = "place", items = "item", factions = "faction")
   for (field in names(slug_types)) {
     for (slug in unlist(fm[[field]])) {
       type <- name_table$type[name_table$slug == slug]

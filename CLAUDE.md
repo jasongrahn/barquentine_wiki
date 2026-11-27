@@ -12,6 +12,7 @@ This folder is the home for Barquentine session recaps and lore. They are harves
 | Transcript cleaner | `tools/vtt_clean.R` → `vtt_to_transcript(path)` returns `Speaker: text` lines (Zoom) or `[hh:mm:ss] text` blocks (YouTube, auto-detected; `mode=` overrides) |
 | Cleaned transcripts | `cache/transcripts/sXXeYY.txt` (git-ignored, kept between sessions) |
 | Quote grep | `tools/vgrep.sh <vtt> "<phrase>"…` (two-line window, timestamps) |
+| Quote check | `Rscript --vanilla tools/cite_check.R <recap.md> <raw.vtt>` checks every italic quote and `[VTT]` citation against the raw VTT (ok / near / off / missing; exits 1 on off or missing). `near` is usually a DM-normalized name. |
 | Recap lint | `Rscript --vanilla tools/lint_recaps.R BarquentineWiki/sessions/<files>` exits 0 when frontmatter is valid |
 | Tool tests | `Rscript --vanilla -e 'testthat::test_dir("tools/tests")'` |
 | Name & thread ledgers | `BarquentineWiki/names.md` (slugs) and `BarquentineWiki/threads.md` (`T-###`) |
@@ -28,7 +29,7 @@ This folder is the home for Barquentine session recaps and lore. They are harves
 2. Read the whole cleaned transcript.
 3. Hold the four-persona panel debate (see the playbook).
 4. Draft `BarquentineWiki/sessions/sXXeYY.md` with these parts: the frontmatter (schema in the playbook), the prose recap, then **Lore Notes** (cite each item as `[VTT hh:mm:ss]` or `[Recap hh:mm:ss]`), then **Open Threads**.
-5. Grep every quote and named event against the **raw** `.vtt` before handing the draft over. Get timestamps with:
+5. Run `tools/cite_check.R` on the draft and fix every `off` and `missing`. Then grep any named event it can't see (paraphrases, attributions) against the **raw** `.vtt` before handing the draft over. Get timestamps with:
    `tools/vgrep.sh <vtt> "<phrase>" ["<phrase>" …]`
    This matches case-insensitively and lets a phrase span two caption lines, since raw captions split phrases mid-sentence. The single-line form, `awk -v p="<phrase>" 'index($0,p){print ts" | "$0} /-->/{ts=substr($1,1,8)}' <vtt>`, misses those.
 6. Add any new names to `names.md` and episode bullets to `threads.md`, then run the lint until it exits 0.

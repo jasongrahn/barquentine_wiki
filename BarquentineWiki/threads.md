@@ -15,8 +15,9 @@ status: open
 - s02e16 — the bone throne, built from a beholder's rivals, goes aboard; Basil: the second step to restoring the ship is "probably an unfortunate amount of" blood
 - s02e17 — Douglas tells the Ki-Rin's history; a chicken sacrifice fails ("no glory and no malice"); Basil tells Lumi the ship's voice is his patron
 - s02e18 — Lumi goes looking for a prisoner to bleed on deck in place of a chicken; the jailhouse won't lease one
-- s02e23 — the Bone Throne is welded to the deck and the ship rises into space
-- s02e24 — the ship heals wherever someone died aboard
+- s02e23 — the ship gives Basil the silent treatment; its gouges heal only with blood shed in battle; Elder Abarat's ritual welds the Bone Throne to the deck, Basil attunes ("I am not the captain. I am the ship") and it flies into space
+- s02e24 — violent death aboard heals the ship: two elf deaths heal it to full, but not the sails, and it stops at the figurehead ("some sort of block"); a captain's violence against another captain decides its future owner, and Basil's rod of the pact keeper goes to +2
+- s02e29 — Stock tells a bar full of captains the ship slurps up the blood of the dead to heal itself; a patron knows it, the ghastly one with the headless figurehead and black sails
 - s02e33 — the shadow entity: the ship wants the infection, and the infection knows the ship
 - s03e01 — the helm resists Robert, and the Captain takes the Bone Throne himself
 - s03e02 — the ship eats Lumi's Giff corpse and soul coin and grows four legs; standing order to collect undesirables
@@ -26,7 +27,9 @@ status: open
 
 ## T-002 · The ship courts Lumi
 status: open
-- s02e24 — Lumi drags a body to his quarters as a gift; the ship responds
+- s02e24 — Lumi hauls the third elf's body aboard and drags it to his cabin, "a little present for Lumi"; Basil learns that one captain's violence against another decides the ship's next owner
+- s02e28 — the ship speaks in Lumi's head for the first time, "I am the ship, my dude"; it calls raising the dead rad, asks to be called Manny, and later suggests Lumi should be captain; Lumi, aloud: "That sounds terrible"
+- s02e30 — Lumi asks the ship for help with the frogs; it wants them dead, urges him to be captain and tells him to read the words in his pocket; Lumi tells Basil the ship wants him as captain; Basil: "Trust me, you don't want to be captain of this ship"
 - s03e02 — the ship keeps offering Lumi the captaincy; he turns it down every time
 - s03e05 — its ideal meal is two captains fighting over it
 
@@ -39,6 +42,7 @@ status: open
 - s02e20 — Room sees a moment of the dream out of order and saves Basil's stealth; Basil thanks Baku
 - s02e21 — a potion of greater healing turns up just when Basil needs it; the crew take it as Room gaining control of his dream
 - s02e22 — a sludge monster eats the dream; Room calls Baku to eat it and is answered, "Feed me your dreams"; Room wakes remembering none of it, fey-touched
+- s02e23 — "feed me your dream" inverts his grandmother's charm, "Tell Baku to come eat my dream"; Mr. Catastrophe: if every loxodon believes in it, belief may have willed it into being; Ricky: a prince of the Nine Hells or an aberration
 - s03e01 — his grandmother's charm: "Baku, come eat my dreams"
 - s03e02 — Baku answers faster than ever and eats a dead world's last memory
 - s03e05 — Room believes the entombed creature is Baku; the Captain disagrees
@@ -51,8 +55,10 @@ status: open
 - s02e20 — with Mario's map and cloaks of the bat, Basil and Lumi sneak into the Beak and through the pool to a laser door with two dials
 - s02e21 — past the dial door, a trapped bakery and the vault door; a young lunar dragon has burrowed into the vault and calls it its nest
 - s02e22 — Lumi banishes the dragon; Periwinkle offers a Red Flag Fleet reward to leave the recipe, but Lumi carries it out as the dream is consumed
-- s02e23 — the map's first destination: the Rock
+- s02e23 — the recipe's back is a map home through wild space and the astral sea; first stop: the Rock, a hub in the moon's shadow
+- s02e25 — after salvaging a derelict nautiloid on the way, the Manticore reaches the Rock, the map's first stop
 - s02e26 — the map names the next stop: Eberron, Elder Abarat's glassed home world
+- s02e27 — the crew to Mr. Catastrophe: even knowing the final destination, they must take the map's steps; Eberron is next, after the Flotilla; he warns it's a marble and the ship will need legs
 - s03e02 — Eberron is the second stop, after the Rock
 - s03e03 — the map is stuck on this planet
 - s03e04 — no third point until the crew does what it came here to do
@@ -97,6 +103,7 @@ status: open
 ## T-009 · Lumi's face and Eberron's savior
 status: open
 - s02e15 — Elder Abarat: someone who looked a lot like Lumi made a deal in a terrible war and became the first warforged
+- s02e26 — Lumi ties Eberron's war to the construct who looked like him; Abarat: he "was not construct at the time"
 - s03e02 — someone once told Lumi he looks just like a person tied to Eberron's war
 - s03e03 — Abarat said the first automaton looked just like Lumi
 - s03e04 — the one who made Abarat's people Warforged "looked like me"
@@ -117,6 +124,10 @@ status: open
 - s02e19 — the scraps in Lumi's pocket grow warm when someone suggests killing the cleric who overcharged them
 - s02e20 — the scraps heat again at talk of burning the compound; Lumi decides he has "hot hands"
 - s02e22 — Lumi's first spirit guardians: one angelic being, then a dark, savory-smelling one
+- s02e23 — outside Bards and Nobles, the scraps in Lumi's pocket heat again, "a hot potato"; he means to test whether he's heating things with his thoughts
+- s02e26 — the scraps heat again at talk of luring someone into an alley to murder them, a backup test for a fake Room
+- s02e28 — the scraps heat at talk of killing the frog-folk passengers and go cold when Lumi says he'd rather the crew not die; he tells Basil and Room about the mousekin's two words but won't read them aloud
+- s02e30 — at the ship's urging Lumi reads the mousekin's two scraps aloud: "vile darkness"
 - s02e33 — through Commune, Lumi's mother says his father is not Vecna
 - s03e01 — his biological father may be a dismembered bronzed figure in a chest
 - s03e05 — the bronzed rib cage grows and fuses into his armor; his biological father doesn't answer
@@ -126,6 +137,8 @@ status: open
 status: open
 - s02e17 — Basil and Room kick in the captain's door and fall into Captain Welsh's memory
 - s02e18 — the memory ends through the stateroom door, which now opens; the captain's quarters stay jammed
+- s02e23 — still blocked
+- s02e28 — still blocked; the crew float throwing the three frog-folk passengers in
 - s03e01 — the Captain still can't open it
 
 ## T-012 · Alistair and Victoria, unacknowledged
@@ -139,6 +152,7 @@ status: open
 ## T-013 · The banished Giff
 status: open
 - s02e25 — the crew learn the Giff backstory: the marble and the Flotilla
+- s02e26 — asked whether anyone has called Eberron the Marble, Elder Abarat: "Not that I am aware of"
 - s02e38 — banishment means a glassed wasteland planet, where the Giff can collect prisoners later
 - s02e43 — Victoria: they rip the helm off your ship and drag it to the planet; the ship becomes your grave
 - s03e02 — the marble is the Giff banishment colony
@@ -156,7 +170,8 @@ status: closed
 - s02e08 — Basil admits his parents face the noose
 - s02e11 — on The Pack Talks, Basil says his extended pack is deeply in trouble, and with a ship he can now help them
 - s02e15 — the Giff legal system is inscrutable; Basil hopes it's a misunderstanding cleared up quickly
-- s02e25 — Ledger trades Basil news of his parents
+- s02e25 — the Ledger: Basil's parents are on the Flotilla awaiting trial; if it goes badly they're banished to the Marble, a glassed planet
+- s02e27 — Mr. Catastrophe: a Giff without a name is a Giff in form only, of no house; the Flotilla is ranked by name around a seat of power
 - s02e34 — the War Saint's price includes testifying at his parents' tribunal
 - s02e36 — the Captain unmasks in the War Saint's waiting room and is let in
 - s02e37 — in the brig, Alistair confesses to the weapon; the artifact is the key
@@ -168,7 +183,9 @@ status: closed
 
 ## T-016 · The Captain's lost name
 status: open
-- s02e27 — Basil finds his name is gone, taken by Ledger
+- s02e27 — Basil can't say his name, any of it; Room traces it to the Ledger ("I gave you my first name"); Mr. Catastrophe: "go get yourself a second name"
+- s02e28 — Sirvellica tries to say his name and her mouth goes dry as sand; she settles for "Captain"
+- s02e30 — heading up to find Basil, Lumi forgets who he was going to find ("did I lose the name?"); later he knows the captain but "just couldn't think of his name"; Lumi guesses the frog did it
 - s02e33 — Elder Abarat gives the nameless Captain a Giff mask
 - s02e43 — Alistair: captains are often known by their deeds; the Captain considers it
 
@@ -208,15 +225,16 @@ status: open
 
 ## T-020 · Lumi, the rain cloud and the Book of Vile Darkness
 status: open
-- s02e30 — a rain cloud forms over Lumi's head
-- s02e33 — Lumi speaks the words "Vile Darkness" twice and a shadow entity appears
+- s02e30 — at the ship's urging Lumi reads "vile darkness" aloud; everything goes silent, a too-tall shadow waves and taps his forehead, and a rain cloud forms over his head; in the mob on the pier he spots someone else with a cloud over their head
+- s02e33 — Lumi speaks the words "Vile Darkness" a second time and the shadow returns, reading a book made of shadow
 - s02e37 — the rain cloud marks seekers of the Book of Vile Darkness
 - s03e07 — the inky black veins run down Lumi's arm into a life-stealing sword from the hoard, and the cloud cracks thunder
 
 ## T-021 · Ted Two
 status: open
-- s02e25 — Lumi's undead servant Ted Two appears
+- s02e25 — Lumi animates the dead astral elf with Ted's blood and names him Ted Two; ordered to knock out anyone who touches the chest of ancient coins, he can't say what his name used to be
 - s02e28 — Lumi threatens Lock, Stock and Barrel with becoming more Ted Twos
+- s02e30 — posted at the hold door, free to eat any frog that touches him; Lumi takes a dead captain's boots for him
 - s02e37 — the crew ponder Ted Two's disappearance
 
 ## T-022 · Mr. Catastrophe
@@ -225,18 +243,22 @@ status: open
 - s02e12 — Davitt the documentarian sails with four near-identical able-bodied men that Mr. Catastrophe sent him from Bral
 - s02e13 — the crew meet Mr. Catastrophe on the Island of Bral
 - s02e19 — at the full moon, with his elves linked on the Elven Rodeo's roof, Mr. Catastrophe puts Basil and Lumi to sleep inside Room's dream
-- s02e23 — Mr. Catastrophe says the ritual worked, at a cost
-- s02e27 — at the Conclave, the crew meet the real Mr. Catastrophe
+- s02e23 — the dream ritual cost him some simulacra; he has copied the rod's helm spell to sell, and has a friend on the Rock: "you'll know him when you see him"
+- s02e26 — Room recalls the friend "should look familiar"; a loxodon double turns out to be a space clown, and the friend is still unfound
+- s02e27 — the friend at the Gilded Comet Conclave is Mr. Catastrophe himself (Room's gut: this one isn't lying); he gives the ship a mangonel and has never seen magic like the Ledger's in 600 years
 
 ## T-023 · King Bhurgher
 status: open
 - s02e18 — an elf calling himself Captain Bhurgher boards the ship; Lumi shows him around, fights him and runs him off; Basil suspects King Bhurgher
-- s02e27 — a ringing coin brings his summons to Supper Nova
+- s02e27 — his debt coin rings in Basil's purse: he once saved the crew from a kraken's gullet, and now they cook in his name at Supper Nova, at the Flotilla
+- s02e28 — Lumi retells "Captain Hamburg" boarding the ship while the others were away and picking a fight with him, unprovoked
 - s02e36 — Room and Lumi cook for him as the Supper Gyozas
 - s02e37 — the Supper Gyozas win, and he takes the credit
 
 ## T-024 · The slaad infection
 status: closed
+- s02e28 — three frog-folk passengers buy passage to the Astral Plane with a fortune in gems; hunted by robots, they're bound for the plane of law
+- s02e30 — the green one probes Lumi's mind through the hold door; through the helm Basil hears them plotting in a language that isn't Abyssal, Common, Giff or Orc, the green one giving orders; the crew plan to strike once they're in space
 - s02e31 — the crew grow uneasy about three froglike passengers, then storm the hold
 - s02e32 — red marks bloom on the Captain and Room; modrons say it is usually fatal
 - s02e33 — healing magic fails
@@ -258,6 +280,7 @@ status: open
 - s02e07 — under the moon, rest heals only half
 - s02e08 — as Room calls on Baku in his dream, the tar moon lifts and the normal moon returns
 - s02e11 — Lumi tells the talk show he is still uneasy around the moon
+- s02e23 — as the crew went under in Room's dream, the moon grinned again and magic grew more potent; by morning it looks fine
 
 ## T-027 · The talk-show chest
 status: closed
@@ -268,3 +291,16 @@ status: closed
 ## T-028 · The Unifier
 status: open
 - s03e07 — Abarat, forehead to the statue's glass, says "Unifier"; then, looking at the bronze in Lumi's chest: "Unifier?"
+
+## T-029 · Mr. Cream
+status: open
+- s02e13 — the Giff ship of Basil's relatives, "the one that offered to take you", is gone from Bral's harbor; Mr. Cream's name comes up with it
+- s02e24 — the astral elves blame "the elusive gif smuggler known as Mr. Cream" for exporting Terillian corn off Toril; Basil: "No, he would never come here"
+- s02e25 — Basil asks the Ledger after "Commandant Cream": he's on his way to the Flotilla; a "found uncle" to Basil, ostracized for leaving the Giff
+
+## T-030 · Legs for the ship
+status: closed
+- s02e26 — Elder Abarat: Eberron has no water left to land on, so the ship will need legs, armaments and probably armor
+- s02e27 — Mr. Catastrophe: some ships have legs, and if not here, "certainly the flatilla will have something"; that's now two people saying the ship needs legs
+- s02e43 — Room: "Meatship grow legs?"; the Captain asks the ship whether it can grow legs
+- s03e02 — the ship eats Lumi's Giff corpse and soul coin and grows four beetle-like legs

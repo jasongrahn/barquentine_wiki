@@ -3,7 +3,8 @@ names_md <- c(
   "|---|---|---|---|---|",
   "| mira | Mira | npc | | s03e02 |",
   "| eberron | Eberron | place | | s03e02 |",
-  "| victorias_chest | Victoria's chest | item | | s03e03 |"
+  "| victorias_chest | Victoria's chest | item | | s03e03 |",
+  "| space_clowns | Space clowns | faction | | s02e26 |"
 )
 threads_md <- c(
   "## T-007 · Mira", "status: open",
@@ -68,6 +69,13 @@ test_that("source_tier, recorded and recap_prose are validated", {
 test_that("slugs must exist in names.md with the matching type", {
   expect_problem(lint(recap(npcs = "[mira, gloria]")), "npcs: unknown slug gloria")
   expect_problem(lint(recap(places = "[mira]")), "places: mira is a npc")
+})
+
+test_that("factions is optional and checked like the other slug lists", {
+  expect_identical(lint(recap(factions = "[space_clowns]")), character())
+  expect_problem(lint(recap(factions = "[jesters]")), "factions: unknown slug jesters")
+  expect_problem(lint(recap(factions = "[mira]")), "factions: mira is a npc")
+  expect_problem(lint(recap(npcs = "[space_clowns]")), "npcs: space_clowns is a faction")
 })
 
 test_that("thread ids must exist and cite this episode", {

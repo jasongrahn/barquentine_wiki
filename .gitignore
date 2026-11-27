@@ -53,3 +53,6 @@ rsconnect/
 
 # DM-only arc ideas: keep private until the campaign wraps
 brewed_lore/
+
+# Local Claude Code subagents (editor, archivist): not published
+.claude/agents/
