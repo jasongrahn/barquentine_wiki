@@ -5,7 +5,8 @@ Rules for writing session recaps and lore notes from `.vtt` transcripts (Zoom an
 ## Verification first
 
 Fabrication is the failure mode. Check every specific claim against the **raw VTT lines**, not against memory of a single read.
-- Re-grep every quote and named event before finalizing. A single pass tends to merge adjacent beats.
+- Re-grep every quote and named event before finalizing.
+- **Quote the exchange, not a summary,** for deals, bargains, rulings, rolls and anything a character agrees to. Note who asked, who answered and what was said, in order, each with its own timestamp. Paraphrasing a bargain is how its terms get lost. A single pass tends to merge adjacent beats.
 - Give chronology extra scrutiny.
 - If a detail can't be verified, cut it. Don't theorize it into something plausible.
 
@@ -20,6 +21,7 @@ Fabrication is the failure mode. Check every specific claim against the **raw VT
 ## Recap style
 
 - **Four paragraphs max** for a single session. **Exactly three** for an arc-level recap.
+- **Generated prose: about 350 words, 400 at most** (the H1 to the first `---`). The DM's own intros run 150–280 words in S2 and 350–500 in S3. Cut sub-beats and lists of names, not the stacked questions.
 - Punchy prose influenced by anime and Batman, with varied sentence length.
 - Dialogue goes in *italics*, **verbatim from the transcript**. Never paraphrase or invent it.
 - **Quote sparingly: 1–2 per recap.** Anime-narrator overviews tell the story in the narrator's voice and save quotes for the line that lands hardest. Fold everything else into narration.
@@ -63,6 +65,7 @@ arc: ~                              # arc slug; ~ until E1 names the arcs
 npcs: [mira, victoria]              # slugs from names.md, type npc
 places: [mira_lair]                 # slugs from names.md, type place
 items: [victorias_chest]            # slugs from names.md, type item
+factions: [vampirates]              # optional; slugs from names.md, type faction
 threads_opened: []                  # T-### ids from threads.md
 threads_advanced: [T-007]
 threads_closed: []

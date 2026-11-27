@@ -2,7 +2,8 @@
 # Zoom files carry speaker labels: consecutive cues from the same speaker
 # merge into one "Speaker: text" line, with no timestamps. YouTube
 # auto-caption files have no speaker labels: cues are grouped into
-# "[hh:mm:ss] text" blocks of about a minute so lines stay citable.
+# "[hh:mm:ss] text" blocks of about ten seconds, so a quote's stamp lands
+# within ~10 s of its raw cue.
 
 # Parse VTT lines into one row per cue: start (seconds), speaker, text.
 parse_vtt <- function(lines) {
@@ -45,7 +46,7 @@ format_speaker_runs <- function(cues) {
 
 # Group cues into "[hh:mm:ss] text" blocks; a new block starts once a cue
 # begins `secs` or more after the current block's first cue.
-format_time_blocks <- function(cues, secs = 60) {
+format_time_blocks <- function(cues, secs = 10) {
   if (!nrow(cues)) return("")
   block <- integer(nrow(cues))
   block_start <- -Inf

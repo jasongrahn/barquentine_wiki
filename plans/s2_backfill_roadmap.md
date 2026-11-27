@@ -34,7 +34,8 @@ S3E1–S3E6 recaps are done (`BarquentineWiki/sessions/`). The goal is a recap l
 | **E3** ✅ 2026-11-06 | Arc 2, The Sunken Ship (s02e06–s02e12) | Seven recaps plus arc recap | See `plans/e3_subplan.md` Retro | 2 sittings |
 | **E4** ✅ 2026-11-14 | Arc 3, Fitting Out (s02e13–s02e18) | Six recaps plus arc recap | See `plans/e4_subplan.md` Retro | 3 sittings |
 | **E5** ✅ 2026-11-17 | Arc 4, The Recipe Heist (s02e19–s02e22) | Four recaps plus arc recap | See `plans/e5_subplan.md` Retro | 2 sittings |
-| **E6…E8** | One arc per epic: 7 arcs, set in E1 (see `BarquentineWiki/season2_spine.md`) | Full recaps for that arc's episodes, plus a 3-paragraph arc recap | All episodes pass the per-episode DoD (below); arc recap written; DM line-edits done; committed | 1 sitting each, ~4–6 h |
+| **E6** ✅ 2026-11-27 | Arc 5, The Rock (s02e23–s02e30) | Eight recaps plus arc recap | See `plans/e6_subplan.md` Retro | 3 sittings |
+| **E7…E8** | One arc per epic: 7 arcs, set in E1 (see `BarquentineWiki/season2_spine.md`) | Full recaps for that arc's episodes, plus a 3-paragraph arc recap | All episodes pass the per-episode DoD (below); arc recap written; DM line-edits done; committed | 1 sitting each, ~4–6 h |
 | **Ez** | Retire old S2 files | The old project's S2E34–36 content fully replaced | No pipeline-format frontmatter left in `sessions/` | folded into the E34–36 arc |
 
 ### Per-episode Definition of Done (applies inside every arc epic)
@@ -115,6 +116,9 @@ callbacks: [s02e15]
 ## Roadmap-level verification
 - Every epic closes with its exit check pasted into the subplan's Retro.
 - After the first arc epic, run a callback test: grep `threads.md` for a live S3 thread (e.g. the sphere key) and confirm it lists the S2 episodes and cites that set it up.
+
+## Later
+- **Trim generated recaps s02e11–s02e22** to the ~350-word cap set 2026-11-24 (they run 335–500). Decide after the S2 backfill is done.
 
 ## Open item (outside this roadmap)
 `~/R-projects/barquentine_wiki/` isn't a git repo. Only `BarquentineWiki/` is, so `plans/`, `tools/` and the playbook aren't version-controlled. Decide this before E0.

@@ -14,11 +14,12 @@ test_that("unlabelled transcripts become '[hh:mm:ss] text' blocks", {
   expect_match(out[1], "^\\[00:00:00\\] Things got real gross real fast aboard the Manticor\\.")
 })
 
-test_that("a new block starts once a minute has passed", {
+test_that("a new block starts once ten seconds have passed", {
   stamps <- sub("^\\[(.{8})\\].*", "\\1", youtube_lines())
   secs <- as.numeric(as.difftime(stamps, format = "%H:%M:%S", units = "secs"))
-  expect_true(all(diff(secs) >= 60))
-  expect_true(all(diff(secs) < 75))
+  # Short blocks keep a quote's block stamp within ~10 s of its raw cue.
+  expect_true(all(diff(secs) >= 9))
+  expect_true(all(diff(secs) < 20))
 })
 
 test_that("mode overrides auto-detection", {
